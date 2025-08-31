@@ -39,6 +39,8 @@ void inorder(Node* root) {
     cout << root->data << " ";
     inorder(root->right);
 }
+
+// preorder traversal
 void preorder(Node* root) {
     if (root == NULL) return;
     cout << root->data << " ";
@@ -46,9 +48,9 @@ void preorder(Node* root) {
     preorder(root->right);
 }
 
+// postorder traversal
 void postorder(Node* root) {
     if (root == NULL) return;
-
     postorder(root->left);
     postorder(root->right);
     cout << root->data << " ";
@@ -71,7 +73,8 @@ void print_level(Node* root, int level) {
         print_level(root->right, level - 1);
     }
 }
-
+\
+// level wise 
 void level_wise(Node* root) {
     int h = tree_height(root);
     for (int i = 1; i <= h; i++) {
@@ -84,19 +87,29 @@ void level_wise_using_queue(Node* root) {
     if (root == NULL) return;
 
     queue<Node*> q;
+    //insert root
     q.push(root);
+    q.push(NULL);
 
     while (!q.empty()) {
         Node* temp = q.front();
         q.pop();
+        if (temp == NULL) {
+            cout << endl;
+            if (!q.empty()) {
+                q.push(NULL);
+            }
+        }
+        else {
+            cout << temp->data << " ";
 
-        cout << temp->data << " ";
+            if (temp->left != NULL)
+                q.push(temp->left);
 
-        if (temp->left != NULL)
-            q.push(temp->left);
+            if (temp->right != NULL)
+                q.push(temp->right);
+        }
 
-        if (temp->right != NULL)
-            q.push(temp->right);
     }
 }
 int main() {
