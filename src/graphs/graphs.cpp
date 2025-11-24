@@ -72,26 +72,59 @@ public:
             }
         }
     }
+
+    bool cycle_Detection_Undirected_Graph_BFS(int src) {
+        unordered_map<int, bool> visited;
+        unordered_map<int, bool> parent;
+
+        parent[src] = -1;
+        visited[src] = true;
+        queue<int> q;
+        q.push(src);
+
+        while (!q.empty()) {
+            int front = q.front(); q.pop();
+            for (auto neighbor : adjList[front]) {
+                if (!visited[neighbor.first]) {
+
+                    q.push(neighbor.first);
+                    visited[neighbor.first] = true;
+                    parent[neighbor.first] = front;
+
+                }
+                else if (visited[neighbor.first] && neighbor.first != parent[front]) return true;
+
+            }
+        }
+        return false;
+    }
 };
 
 int main() {
     Graph g;
     // Edge u->v with weight and direction
-    g.addEdge(0, 2, 1, 1);
-    g.addEdge(0, 5, 1, 1);
-    g.addEdge(0, 3, 1, 1);
-    g.addEdge(2, 5, 1, 1);
-    g.addEdge(5, 6, 1, 1);
-    g.addEdge(5, 4, 1, 1);
-    g.addEdge(4, 1, 1, 1);
+    g.addEdge(0, 2, 1, 0);
+    g.addEdge(0, 5, 1, 0);
+    g.addEdge(0, 3, 1, 0);
+    g.addEdge(2, 5, 1, 0);
+    g.addEdge(5, 6, 1, 0);
+    g.addEdge(5, 4, 1, 0);
+    g.addEdge(4, 1, 1, 0);
     // Removed duplicate edge (4, 1)
     int n = 6; // number of nodes (assuming nodes labeled 0 to 6)
-    g.printAdjList(n);
+    // g.printAdjList(n);
 
-    cout << "BFS Traversal starting from node 0:" << endl;
-    g.bfs(n);
+    // cout << "BFS Traversal starting from node 0:" << endl;
+    // g.bfs(n);
 
-    cout << "\nDFS Traversal starting from node 0:" << endl;
-    g.dfs(n);
+    // cout << "\nDFS Traversal starting from node 0:" << endl;
+    // g.dfs(n);
+
+    for (int i = 0; i <= n; i++) {
+        if (g.cycle_Detection_Undirected_Graph_BFS(i)) {
+            cout << "Cycle detected in the graph." << endl;
+            break;
+        }
+    }
     return 0;
 }
