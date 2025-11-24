@@ -167,15 +167,13 @@ public:
 int main() {
     Graph g;
     // Edge u->v with weight and direction
-    g.addEdge(0, 2, 1, 0);
-    g.addEdge(0, 5, 1, 0);
-    g.addEdge(0, 3, 1, 0);
-    g.addEdge(2, 5, 1, 0);
-    g.addEdge(5, 6, 1, 0);
-    g.addEdge(5, 4, 1, 0);
-    g.addEdge(4, 1, 1, 0);
+    g.addEdge(0, 1, 1, 1);
+    g.addEdge(0, 4, 1, 1);
+    g.addEdge(1, 2, 1, 1);
+    g.addEdge(1, 3, 1, 1);
+    g.addEdge(1, 4, 1, 1);
     // Removed duplicate edge (4, 1)
-    int n = 7; // number of nodes (assuming nodes labeled 0 to 6)
+    int n = 5; // number of nodes (assuming nodes labeled 0 to 6)
     // g.printAdjList(n);
 
     // cout << "BFS Traversal starting from node 0:" << endl;
@@ -185,11 +183,20 @@ int main() {
     // g.dfs(n);
 
     // Cycle Detection in Undirected Graph using DFS
-    if (g.cycle_Detection_undireted_graph_dfs_helper(n)) {
-        cout << "Cycle detected in the undirected graph using DFS." << endl;
+    // if (g.cycle_Detection_undireted_graph_dfs_helper(n)) {
+    //     cout << "Cycle detected in the undirected graph using DFS." << endl;
+    // }
+    // else {
+    //     cout << "No cycle detected in the undirected graph using DFS." << endl;
+    // }
+
+    // Cycle Detection in Directed Graph using DFS
+    if (g.direted_graph_cycle_detection_dfs_helper(n)) {
+        cout << "Cycle detected in the directed graph using DFS." << endl;
     }
     else {
-        cout << "No cycle detected in the undirected graph using DFS." << endl;
+        cout << "No cycle detected in the directed graph using DFS." << endl;
     }
+
     return 0;
 }
