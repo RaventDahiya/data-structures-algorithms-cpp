@@ -18,7 +18,7 @@ public:
     }
 
     void printAdjList(int n) {
-        for (int i = 0; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
             cout << i << " -> {";
             for (auto j : adjList[i]) {
                 cout << "(" << j.first << ", " << j.second << "), ";
@@ -29,7 +29,7 @@ public:
 
     void bfs(int n) {
         unordered_map<int, bool> visited;
-        for (int src = 0; src <= n; src++) {
+        for (int src = 0; src < n; src++) {
             if (!visited[src]) {
                 bfsUtil(src, visited);
             }
@@ -72,10 +72,19 @@ public:
             }
         }
     }
-
-    bool cycle_Detection_Undirected_Graph_BFS(int src) {
+    bool cycle_Detection_Undirected_Graph_BFS_helper(int n) {
         unordered_map<int, bool> visited;
-        unordered_map<int, bool> parent;
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                if (cycle_Detection_Undirected_Graph_BFS(i, visited)) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    bool cycle_Detection_Undirected_Graph_BFS(int src, unordered_map<int, bool>& visited) {
+        unordered_map<int, int> parent;
 
         parent[src] = -1;
         visited[src] = true;
@@ -98,6 +107,61 @@ public:
         }
         return false;
     }
+
+    bool cycle_Detection_undireted_graph_dfs_helper(int n) {
+        unordered_map<int, bool> visited;
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                if (cycle_Detection_undirected_graph_dfs(i, visited, -1)) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    bool cycle_Detection_undirected_graph_dfs(int node, unordered_map<int, bool>& visited, int parent) {
+        visited[node] = true;
+        for (auto neighbor : adjList[node]) {
+            if (!visited[neighbor.first]) {
+                if (cycle_Detection_undirected_graph_dfs(neighbor.first, visited, node)) {
+                    return true;
+                }
+            }
+            else if (visited[neighbor.first] && neighbor.first != parent) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    bool direted_graph_cycle_detection_dfs_helper(int n) {
+        unordered_map<int, bool> visited;
+        unordered_map<int, bool> inStack;
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                if (directed_graph_cycle_detection_dfs(i, visited, inStack)) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    bool directed_graph_cycle_detection_dfs(int node, unordered_map<int, bool>& visited, unordered_map<int, bool>& inStack) {
+        visited[node] = true;
+        inStack[node] = true;
+        for (auto neighbor : adjList[node]) {
+            if (!visited[neighbor.first]) {
+                if (directed_graph_cycle_detection_dfs(neighbor.first, visited, inStack)) {
+                    return true;
+                }
+            }
+            else if (inStack[neighbor.first]) {
+                return true;
+            }
+        }
+        inStack[node] = false;
+        return false;
+    }
 };
 
 int main() {
@@ -111,7 +175,7 @@ int main() {
     g.addEdge(5, 4, 1, 0);
     g.addEdge(4, 1, 1, 0);
     // Removed duplicate edge (4, 1)
-    int n = 6; // number of nodes (assuming nodes labeled 0 to 6)
+    int n = 7; // number of nodes (assuming nodes labeled 0 to 6)
     // g.printAdjList(n);
 
     // cout << "BFS Traversal starting from node 0:" << endl;
@@ -120,11 +184,12 @@ int main() {
     // cout << "\nDFS Traversal starting from node 0:" << endl;
     // g.dfs(n);
 
-    for (int i = 0; i <= n; i++) {
-        if (g.cycle_Detection_Undirected_Graph_BFS(i)) {
-            cout << "Cycle detected in the graph." << endl;
-            break;
-        }
+    // Cycle Detection in Undirected Graph using DFS
+    if (g.cycle_Detection_undireted_graph_dfs_helper(n)) {
+        cout << "Cycle detected in the undirected graph using DFS." << endl;
+    }
+    else {
+        cout << "No cycle detected in the undirected graph using DFS." << endl;
     }
     return 0;
 }
