@@ -2,6 +2,9 @@
 #include <unordered_map>
 #include <list>
 #include <queue>
+#include <stack>
+#include <vector>
+#include <climits>
 using namespace std;
 
 class Graph {
@@ -161,6 +164,102 @@ public:
         }
         inStack[node] = false;
         return false;
+    }
+
+    // Topological Sort using DFS
+    void topologicalSortDFS(int node, unordered_map<int, bool>& visited, stack<int>& topoStack) {
+        visited[node] = true;
+        for (auto neighbor : adjList[node]) {
+            if (!visited[neighbor.first]) {
+                topologicalSortDFS(neighbor.first, visited, topoStack);
+            }
+        }
+        topoStack.push(node);
+    }
+
+    vector<int> topologicalSort(int n) {
+        unordered_map<int, bool> visited;
+        stack<int> topoStack;
+        
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                topologicalSortDFS(i, visited, topoStack);
+            }
+        }
+        
+        vector<int> result;
+        while (!topoStack.empty()) {
+            result.push_back(topoStack.top());
+            topoStack.pop();
+        }
+        return result;
+    }
+
+    // Topological Sort using Kahn's Algorithm (BFS)
+    vector<int> topologicalSortBFS(int n) {
+        vector<int> indegree(n, 0);
+        
+        // Calculate indegree of all nodes
+        for (int i = 0; i < n; i++) {
+            for (auto neighbor : adjList[i]) {
+                indegree[neighbor.first]++;
+            }
+        }
+        
+        queue<int> q;
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) {
+                q.push(i);
+            }
+        }
+        
+        vector<int> result;
+        while (!q.empty()) {
+            int front = q.front(); q.pop();
+            result.push_back(front);
+            
+            for (auto neighbor : adjList[front]) {
+                indegree[neighbor.first]--;
+                if (indegree[neighbor.first] == 0) {
+                    q.push(neighbor.first);
+                }
+            }
+        }
+        return result;
+    }
+
+    // Single Source Shortest Path in DAG using Topological Sort
+    vector<int> shortestPathDAG(int src, int n) {
+        // Step 1: Get topological order
+        unordered_map<int, bool> visited;
+        stack<int> topoStack;
+        
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                topologicalSortDFS(i, visited, topoStack);
+            }
+        }
+        
+        // Step 2: Initialize distances
+        vector<int> dist(n, INT_MAX);
+        dist[src] = 0;
+        
+        // Step 3: Process nodes in topological order
+        while (!topoStack.empty()) {
+            int node = topoStack.top(); topoStack.pop();
+            
+            if (dist[node] != INT_MAX) {
+                for (auto neighbor : adjList[node]) {
+                    int v = neighbor.first;
+                    int weight = neighbor.second;
+                    if (dist[node] + weight < dist[v]) {
+                        dist[v] = dist[node] + weight;
+                    }
+                }
+            }
+        }
+        
+        return dist;
     }
 };
 
