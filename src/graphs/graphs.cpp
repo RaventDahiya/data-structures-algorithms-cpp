@@ -261,6 +261,99 @@ public:
         
         return dist;
     }
+
+    vector<int>dijkstra(int src, int n) {
+        vector<int> dist(n, INT_MAX);
+        dist[src] = 0;
+
+        // Min-heap priority queue
+        set<pair<int, int>> st;
+        st.insert({ 0, src }); // {distance, node}
+
+        while (!st.empty()) {
+            auto front = *(st.begin()); // Get the node with the smallest distance
+            int node = front.second;
+            int nodeDist = front.first;
+            st.erase(st.begin()); // Remove it from the set
+
+            for (auto neighbor : adjList[node]) {
+                int v = neighbor.first;
+                int weight = neighbor.second;
+
+                if (nodeDist + weight < dist[v]) {
+                    // Update distance
+                    auto result = st.find({ dist[v], v }); // Find the old distance entry
+                    if (result != st.end()) {
+                        st.erase(result);
+                    }
+                    dist[v] = nodeDist + weight; 
+                    st.insert({ dist[v], v }); // Insert the updated distance
+                }
+            }
+        }
+
+        return dist;
+    }
+    
+    vector<int>bellman_Ford(int src, int n) {
+        vector<int> dist(n, INT_MAX);
+        dist[src] = 0;
+
+        // Relax edges up to (n-1) times
+        for (int i = 0; i < n - 1; i++) {
+            for (auto edge : adjList) {
+                int u = edge.first;
+                for (auto neighbor : edge.second) {
+                    int v = neighbor.first;
+                    int weight = neighbor.second;
+                    if (dist[u] != INT_MAX && dist[u] + weight < dist[v]) {
+                        dist[v] = dist[u] + weight;
+                    }
+                }
+            }
+        }
+
+        // Check for negative-weight cycles
+        for (auto edge : adjList) {
+            int u = edge.first;
+            for (auto neighbor : edge.second) {
+                int v = neighbor.first;
+                int weight = neighbor.second;
+                if (dist[u] != INT_MAX && dist[u] + weight < dist[v]) {
+                    cout << "Graph contains negative weight cycle" << endl;
+                    return {};
+                }
+            }
+        }
+
+        return dist;
+    }
+
+
+    vector<vector<int>> flaydWarshall(int n){
+        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
+
+        // Initialize distances based on adjacency list
+        for (int i = 0; i < n; i++) {
+            dist[i][i] = 0; // Distance to self is zero
+            for (auto neighbor : adjList[i]) {
+                dist[i][neighbor.first] = neighbor.second;
+            }
+        }
+
+        // Floyd-Warshall algorithm
+        for (int k = 0; k < n; k++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (dist[i][k] != INT_MAX && dist[k][j] != INT_MAX) {
+                        dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
+                    }
+                }
+            }
+        }
+
+        return dist;
+    }
 };
 
 int main() {
@@ -271,6 +364,9 @@ int main() {
     g.addEdge(1, 2, 1, 1);
     g.addEdge(1, 3, 1, 1);
     g.addEdge(1, 4, 1, 1);
+    g.addEdge(2, 3, 1, 1);
+    g.addEdge(3, 4, 1, 1);
+    g.addEdge(4, 1, 1, 1);
     // Removed duplicate edge (4, 1)
     int n = 5; // number of nodes (assuming nodes labeled 0 to 6)
     // g.printAdjList(n);
@@ -290,12 +386,13 @@ int main() {
     // }
 
     // Cycle Detection in Directed Graph using DFS
-    if (g.direted_graph_cycle_detection_dfs_helper(n)) {
-        cout << "Cycle detected in the directed graph using DFS." << endl;
-    }
-    else {
-        cout << "No cycle detected in the directed graph using DFS." << endl;
-    }
+    // if (g.direted_graph_cycle_detection_dfs_helper(n)) {
+    //     cout << "Cycle detected in the directed graph using DFS." << endl;
+    // }
+    // else {
+    //     cout << "No cycle detected in the directed graph using DFS." << endl;
+    // }
+
 
     return 0;
 }
