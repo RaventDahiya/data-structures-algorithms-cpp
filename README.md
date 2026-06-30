@@ -59,6 +59,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,11 +69,13 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Quickselect
 |  |
 | ------- |
@@ -85,4 +88,16 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Greedy
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
