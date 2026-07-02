@@ -61,6 +61,7 @@ Refer to the respective source files for usage examples and function description
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Refer to the respective source files for usage examples and function description
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,11 +100,13 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 ## Sliding Window
 |  |
 | ------- |
