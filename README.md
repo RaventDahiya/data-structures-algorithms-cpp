@@ -160,4 +160,20 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
