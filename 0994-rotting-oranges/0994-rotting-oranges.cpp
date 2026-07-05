@@ -17,16 +17,16 @@ public:
                 else if(grid[i][j]==1) fresh++;
             }
         }
+        int x[4] = {0,-1,0,1};
+        int y[4] = {-1,0,1,0};
         if(fresh==0) return 0;
         if(q.empty()) return -1;
         int time = -1;
         while(!q.empty()){
             int size = q.size();
-            time++;
+            
             while(size--){
                 auto [i,j] = q.front(); q.pop();
-                int x[] = {0,-1,0,1};
-                int y[] = {-1,0,1,0};
                 for(int k=0;k<4;k++){
                     int new_i = i + x[k];
                     int new_j = j + y[k];
@@ -37,6 +37,7 @@ public:
                     }
                 }
             }
+            time++;
         }
 
         if(fresh) return -1;
