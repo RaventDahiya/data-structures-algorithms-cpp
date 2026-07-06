@@ -66,6 +66,7 @@ Refer to the respective source files for usage examples and function description
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
