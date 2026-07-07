@@ -58,6 +58,7 @@ Refer to the respective source files for usage examples and function description
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -168,11 +169,13 @@ Refer to the respective source files for usage examples and function description
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
@@ -180,6 +183,7 @@ Refer to the respective source files for usage examples and function description
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -188,6 +192,7 @@ Refer to the respective source files for usage examples and function description
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0994-rotting-oranges) |
