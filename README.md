@@ -119,6 +119,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
@@ -184,6 +185,7 @@ Refer to the respective source files for usage examples and function description
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
@@ -225,4 +227,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0210-course-schedule-ii) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
