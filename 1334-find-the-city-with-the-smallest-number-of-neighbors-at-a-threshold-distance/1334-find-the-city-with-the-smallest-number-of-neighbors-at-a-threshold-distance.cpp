@@ -1,26 +1,35 @@
 class Solution {
-public:
-    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
-        for (int i = 0; i < n; i++) {
-            dist[i][i] = 0;
-        }
-        for (auto it : edges) {
-            int u = it[0];
-            int v = it[1];
-            int wt = it[2];
-            dist[u][v] = wt;
-            dist[v][u] = wt;
-        }
-        for (int h = 0; h < n; h++) {
-            for (int u = 0; u < n; u++) {
-                for (int v = 0; v < n; v++) {
-                    if (dist[u][h] != INT_MAX && dist[h][v] != INT_MAX) {
-                        dist[u][v] = min(dist[u][v], dist[u][h] + dist[h][v]);
-                    }
+private:
+    vector<int> dijkstra(int n, vector<vector<pair<int,int>>>& adj, int src){
+        vector<int>dist(n,INT_MAX);
+        dist[src] = 0;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        pq.push({0,src});
+        while(!pq.empty()){
+            auto [dis,node] = pq.top(); pq.pop();
+            if(dis > dist[node]) continue;
+            for(auto [nbr,wt] : adj[node]){
+                if(dis + wt < dist[nbr]){
+                    dist[nbr] = dis + wt;
+                    pq.push({dist[nbr],nbr});
                 }
             }
         }
+        return dist;
+    }
+public:
+    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        vector<vector<int>> dist;
+        vector<vector<pair<int,int>>> adj(n);
+        for(auto it : edges){
+            adj[it[0]].push_back({it[1],it[2]});
+            adj[it[1]].push_back({it[0],it[2]});
+        }
+
+        for(int i=0;i<n;i++){
+            dist.push_back(dijkstra(n,adj,i));
+        }
+        
         int miniCities = INT_MAX;
         int ans = -1;
         for(int i=0;i<n;i++){
