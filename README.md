@@ -68,6 +68,7 @@ Refer to the respective source files for usage examples and function description
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0994-rotting-oranges) |
@@ -91,6 +92,7 @@ Refer to the respective source files for usage examples and function description
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
@@ -129,6 +131,7 @@ Refer to the respective source files for usage examples and function description
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
@@ -187,6 +190,7 @@ Refer to the respective source files for usage examples and function description
 | [0207-course-schedule](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -203,6 +207,7 @@ Refer to the respective source files for usage examples and function description
 | [0210-course-schedule-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -217,6 +222,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -265,6 +271,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 ## Shortest Path
 |  |
 | ------- |
