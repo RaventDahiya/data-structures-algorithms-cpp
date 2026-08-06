@@ -62,30 +62,30 @@ public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
         int n = accounts.size();
         DisjointSet ds(n);
-        unordered_map<string,int> mapMailNode;
+        unordered_map<string,int>mp;
         for(int i=0;i<n;i++){
             for(int j=1;j<accounts[i].size();j++){
                 string mail = accounts[i][j];
-                if(!mapMailNode.count(mail)){
-                    mapMailNode[mail] = i;
+                if(mp.count(mail)){ //present
+                    ds.unionBySize(i,mp[mail]);
                 }else{
-                    ds.unionByRank(i,mapMailNode[mail]);
+                    mp[mail] = i;
                 }
             }
         }
-        vector<vector<string>>mergedMail(n);
-        for(auto [str,node] : mapMailNode){
-            int par = ds.findUPar(node);
-            mergedMail[par].push_back(str);
+        vector<vector<string>>mails(n);
+        for(auto [mail,node] : mp){
+            int ulp_node = ds.findUPar(node);
+            mails[ulp_node].push_back(mail);
         }
         vector<vector<string>>ans;
         for(int i=0;i<n;i++){
-            if(mergedMail[i].size() > 0){
-                sort(mergedMail[i].begin(),mergedMail[i].end());
+            if(mails[i].size()){
                 vector<string>temp;
                 temp.push_back(accounts[i][0]);
-                for(auto it : mergedMail[i]){
-                    temp.push_back(it);
+                sort(mails[i].begin(),mails[i].end());
+                for(auto str : mails[i]){
+                    temp.push_back(str);
                 }
                 ans.push_back(temp);
             }
