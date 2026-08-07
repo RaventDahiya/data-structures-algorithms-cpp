@@ -69,18 +69,18 @@ public:
             m = max(m,j);
         }
         DisjointSet ds(n+m+1);
-        unordered_map<int,int>stoneNodes;
+        unordered_set<int>st;
         for(auto it : stones){
             int i = it[0];
-            int j = it[1] +n+1;
+            int j = it[1] + n + 1;
             ds.unionBySize(i,j);
-            stoneNodes[i] = 1;
-            stoneNodes[j] = 1;
+            st.insert(i);
+            st.insert(j);
         }
-        int cnt = 0;
-        for(auto [it,t] : stoneNodes){
-            if(ds.findUPar(it) == it) cnt++;
+        int compCount = 0;
+        for(auto it : st){
+            if( it == ds.findUPar(it)) compCount++;
         }
-        return stones.size() - cnt;
+        return stones.size() - compCount;
     }
 };
