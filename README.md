@@ -314,4 +314,12 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1192-critical-connections-in-a-network) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
