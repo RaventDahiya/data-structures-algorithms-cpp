@@ -63,6 +63,7 @@ Refer to the respective source files for usage examples and function description
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
@@ -82,12 +83,14 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -130,6 +133,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0001-two-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
@@ -168,6 +172,7 @@ Refer to the respective source files for usage examples and function description
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
@@ -328,4 +333,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
