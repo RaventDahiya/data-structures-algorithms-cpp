@@ -136,6 +136,7 @@ Refer to the respective source files for usage examples and function description
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -174,6 +175,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 ## Bucket Sort
@@ -292,6 +294,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
+| [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 ## Shortest Path
@@ -337,4 +340,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
