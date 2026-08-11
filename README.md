@@ -67,6 +67,7 @@ Refer to the respective source files for usage examples and function description
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -96,6 +97,7 @@ Refer to the respective source files for usage examples and function description
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -138,6 +140,7 @@ Refer to the respective source files for usage examples and function description
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
@@ -162,6 +165,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 ## Design
 |  |
 | ------- |
@@ -194,6 +198,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
