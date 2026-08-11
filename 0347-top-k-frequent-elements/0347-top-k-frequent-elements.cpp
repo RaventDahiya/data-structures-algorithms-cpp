@@ -1,34 +1,21 @@
 class Solution {
 public:
-    struct custom{
-        unordered_map<int,int>&mp;
-        custom(unordered_map<int,int>&mapRef) : mp(mapRef) {}
-        bool operator()(int a, int b){
-            return mp[a] > mp[b];
-        }
-    };
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int,int>mp;
-        for(auto &i:nums){
-            mp[i]++;
+        int n = nums.size();
+        for(auto& num : nums){
+            mp[num]++;
         }
-        priority_queue<int,vector<int>,custom>pq((custom(mp)));
-
-        for(auto&[key,value]:mp){
-            if(pq.size()<k) pq.push(key);
-            else{
-                int front = pq.top();
-                if(mp[front] < value){
-                    pq.pop();
-                    pq.push(key);
-                }
-            }
-        }
+        vector<vector<int>>bucket(n+1);
         vector<int>ans;
-        while(k){
-            ans.push_back(pq.top());
-            pq.pop();
-            k--;
+        for(auto& [num,freq] : mp){
+            bucket[freq].push_back(num);
+        }
+        for(int i=n;i>=0;i--){
+            for(int num : bucket[i]){
+                ans.push_back(num);
+                if(ans.size()==k) return ans;
+            }
         }
         return ans;
     }
