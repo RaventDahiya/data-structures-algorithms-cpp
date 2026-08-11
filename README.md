@@ -61,6 +61,7 @@ Refer to the respective source files for usage examples and function description
 | [0001-two-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
@@ -139,6 +140,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0001-two-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
@@ -250,6 +252,7 @@ Refer to the respective source files for usage examples and function description
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
