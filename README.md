@@ -61,6 +61,7 @@ Refer to the respective source files for usage examples and function description
 | [0001-two-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
@@ -96,6 +97,7 @@ Refer to the respective source files for usage examples and function description
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +145,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0001-two-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
@@ -318,6 +321,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
