@@ -59,6 +59,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -99,6 +100,7 @@ Refer to the respective source files for usage examples and function description
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
@@ -185,6 +187,7 @@ Refer to the respective source files for usage examples and function description
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
