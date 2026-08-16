@@ -74,6 +74,7 @@ Refer to the respective source files for usage examples and function description
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
@@ -195,6 +196,7 @@ Refer to the respective source files for usage examples and function description
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 ## Design
