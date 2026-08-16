@@ -146,6 +146,7 @@ Refer to the respective source files for usage examples and function description
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
+| [0876-middle-of-the-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Refer to the respective source files for usage examples and function description
 | [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
