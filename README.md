@@ -409,4 +409,12 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
