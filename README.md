@@ -66,6 +66,7 @@ Refer to the respective source files for usage examples and function description
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
@@ -100,6 +101,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -339,6 +341,7 @@ Refer to the respective source files for usage examples and function description
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
