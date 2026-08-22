@@ -66,6 +66,7 @@ Refer to the respective source files for usage examples and function description
 | [0033-search-in-rotated-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
@@ -331,6 +332,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0304-range-sum-query-2d-immutable) |
@@ -411,6 +413,7 @@ Refer to the respective source files for usage examples and function description
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
