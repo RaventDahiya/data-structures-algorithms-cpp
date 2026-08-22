@@ -69,6 +69,7 @@ Refer to the respective source files for usage examples and function description
 | [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -333,6 +334,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0036-valid-sudoku](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0304-range-sum-query-2d-immutable) |
@@ -457,6 +459,7 @@ Refer to the respective source files for usage examples and function description
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Monotonic Queue
 |  |
