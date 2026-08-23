@@ -3,18 +3,18 @@ public:
     int maxProduct(vector<int>& nums) {
         int maxi = nums[0];
         int mini = nums[0];
+
         int ans = nums[0];
 
-        for (int i = 1; i < nums.size(); i++) {
+        for(int i=1;i<nums.size();i++){
+            int num = nums[i];
 
-            if (nums[i] < 0) {
-                swap(maxi, mini);
-            }
+            if(num < 0) swap(maxi,mini);
 
-            maxi = max(nums[i], maxi * nums[i]);
-            mini = min(nums[i], mini * nums[i]);
+            maxi = max(num,num*maxi);
+            mini = min(num,num*mini);
 
-            ans = max(ans, maxi);
+            ans = max(maxi,ans);
         }
 
         return ans;
