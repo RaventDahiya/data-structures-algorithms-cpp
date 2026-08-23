@@ -81,6 +81,7 @@ Refer to the respective source files for usage examples and function description
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0304-range-sum-query-2d-immutable) |
@@ -123,6 +124,7 @@ Refer to the respective source files for usage examples and function description
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
@@ -179,6 +181,7 @@ Refer to the respective source files for usage examples and function description
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -238,6 +241,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
@@ -428,6 +432,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
 ## Queue
 |  |
 | ------- |
