@@ -1,58 +1,56 @@
 class Solution {
 public:
-    void mergeSort(vector<int>& arr, int s, int e, int& count) {
-        if (s >= e)
-            return;
-        int mid = s + (e - s) / 2;
-        mergeSort(arr, s, mid, count);
-        mergeSort(arr, mid + 1, e, count);
-        merge(arr, s, mid, e, count);
-    }
-
-    void merge(vector<int>& arr, int s, int mid, int e, int& count) {
-        int l1 = mid - s + 1;
-        int l2 = e - mid;
-
-        vector<int> arr1(l1);
-        vector<int> arr2(l2);
-
-        for (int i = 0; i < l1; i++) {
-            arr1[i] = arr[s + i];
+    void merge(vector<int>& arr, int left, int mid, int right) {
+		vector<int> temp;
+		
+		int leftIndex = left;
+		int rightIndex = mid + 1;
+		
+		while (leftIndex <= mid && rightIndex <= right) {
+			if (arr[leftIndex] <= arr[rightIndex]) {
+				temp.push_back(arr[leftIndex++]);
+			} else {
+				temp.push_back(arr[rightIndex++]);
+			}
+		}
+		
+		while (leftIndex <= mid) {
+			temp.push_back(arr[leftIndex++]);
+		}
+		
+		while (rightIndex <= right) {
+			temp.push_back(arr[rightIndex++]);
+		}
+		
+		for (int index = left; index <= right; index++) {
+			arr[index] = temp[index - left];
+		}
+	}
+	
+	int mergeSort(vector<int>& arr, int left, int right) {
+        int pairs = 0;
+		if (left >= right)
+			return pairs;
+		
+		int mid = left + (right - left) / 2;
+		
+		pairs += mergeSort(arr, left, mid);
+		pairs += mergeSort(arr, mid + 1, right);
+		pairs +=  countPairs(arr,left,mid,right);
+		merge(arr, left, mid, right);
+        return pairs;
+	}
+    int  countPairs(vector<int>& arr, int left, int mid, int right){
+        int pairs = 0;
+        int rightIndex = mid+1;
+        for(int leftIndex=left;leftIndex<=mid;leftIndex++){
+            while(rightIndex<=right && arr[leftIndex] > (long long)2 * arr[rightIndex]) rightIndex++;
+            pairs += rightIndex - (mid + 1);
         }
-
-        for (int i = 0; i < l2; i++) {
-            arr2[i] = arr[mid + 1 + i];
-        }
-
-        int j = 0;
-        for (int i = 0; i < l1; i++) {
-            while (j < l2 && arr1[i] > (long long)2 * arr2[j])
-                j++;
-            count += j;
-        }
-
-        int i = 0, k = s;
-        j = 0;
-        while (i < l1 && j < l2) {
-            if (arr1[i] < arr2[j]) {
-                arr[k++] = arr1[i++];
-
-            } else {
-                arr[k++] = arr2[j++];
-            }
-        }
-
-        while (i < l1) {
-            arr[k++] = arr1[i++];
-        }
-
-        while (j < l2) {
-            arr[k++] = arr2[j++];
-        }
+        return pairs;
     }
     int reversePairs(vector<int>& nums) {
-        int count = 0;
-        mergeSort(nums, 0, nums.size() - 1, count);
-        return count;
+        int n = nums.size();
+        return mergeSort(nums,0,n-1);
     }
 };
