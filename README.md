@@ -106,6 +106,7 @@ Refer to the respective source files for usage examples and function description
 | [1020-number-of-enclaves](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -222,6 +223,7 @@ Refer to the respective source files for usage examples and function description
 | [0438-find-all-anagrams-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
