@@ -95,6 +95,7 @@ Refer to the respective source files for usage examples and function description
 | [0560-subarray-sum-equals-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0827-making-a-large-island) |
@@ -215,6 +216,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
