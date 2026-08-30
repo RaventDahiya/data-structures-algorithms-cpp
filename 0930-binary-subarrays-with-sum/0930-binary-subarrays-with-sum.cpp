@@ -1,23 +1,17 @@
 class Solution {
 public:
-    int numSubarraysWithAtLeastSum(vector<int>& nums, int goal) {
-        if(goal < 0) return 0;
-        int count = 0;
-        int left = 0;
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        unordered_map<int,int>prefix;
+        prefix[0] = 1;
         int sum = 0;
-        for (int right = 0; right < nums.size(); right++) {
-            sum += nums[right];
+        int count = 0;
+        for(int i=0;i<nums.size();i++){
+            sum += nums[i];
+            
+            if(prefix.count(sum-goal)) count += prefix[sum-goal];
 
-            while (sum > goal) {
-                sum -= nums[left];
-                left++;
-            }
-
-            count += right - left + 1;
+            prefix[sum]++;
         }
         return count;
-    }
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        return numSubarraysWithAtLeastSum(nums,goal) - numSubarraysWithAtLeastSum(nums,goal-1);
     }
 };
