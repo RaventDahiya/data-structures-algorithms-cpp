@@ -85,6 +85,7 @@ Refer to the respective source files for usage examples and function description
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0304-range-sum-query-2d-immutable) |
@@ -153,6 +154,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
@@ -230,6 +232,7 @@ Refer to the respective source files for usage examples and function description
 | [0076-minimum-window-substring](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -475,6 +478,7 @@ Refer to the respective source files for usage examples and function description
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
@@ -511,6 +515,7 @@ Refer to the respective source files for usage examples and function description
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -532,4 +537,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0796-rotate-string) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
