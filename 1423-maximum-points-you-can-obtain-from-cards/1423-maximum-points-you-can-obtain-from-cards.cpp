@@ -1,27 +1,26 @@
 class Solution {
 public:
     int maxScore(vector<int>& c, int k) {
-        int totalSum = accumulate(c.begin(),c.end(),0);
-            
-        //constant window minSum
-
-        int left = 0;   
-        int sum = 0;
-        int minSum = INT_MAX;
         int n = c.size();
-        if (k == n) return totalSum;
 
-        for(int right=0;right<n;right++){
-            sum += c[right];
+        int sum = 0;
 
-            while(right-left+1 == n-k){
-                minSum = min(minSum,sum);
-                sum -= c[left];
-                left++;
-            }
-
+        // Initially take all k cards from left
+        for (int i = 0; i < k; i++) {
+            sum += c[i];
         }
 
-        return totalSum - minSum;
+        int maxScore = sum;
+
+        // Gradually remove from left
+        // and add from right
+        for (int i = 1; i <= k; i++) {
+            sum -= c[k - i];
+            sum += c[n - i];
+
+            maxScore = max(maxScore, sum);
+        }
+
+        return maxScore;
     }
 };
