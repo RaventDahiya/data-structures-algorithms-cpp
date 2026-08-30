@@ -113,6 +113,7 @@ Refer to the respective source files for usage examples and function description
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -163,6 +164,7 @@ Refer to the respective source files for usage examples and function description
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -242,6 +244,7 @@ Refer to the respective source files for usage examples and function description
 | [1004-max-consecutive-ones-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Two Pointers
 |  |
 | ------- |
@@ -481,6 +484,7 @@ Refer to the respective source files for usage examples and function description
 | [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -517,6 +521,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -529,6 +534,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Treap
 |  |
 | ------- |
