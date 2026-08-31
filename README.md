@@ -80,6 +80,7 @@ Refer to the respective source files for usage examples and function description
 | [0136-single-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
@@ -325,6 +326,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
@@ -344,6 +346,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
@@ -364,6 +367,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0785-is-graph-bipartite) |
@@ -394,6 +398,7 @@ Refer to the respective source files for usage examples and function description
 | [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
