@@ -590,4 +590,12 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
