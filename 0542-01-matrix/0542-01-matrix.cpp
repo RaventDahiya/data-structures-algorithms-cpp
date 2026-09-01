@@ -1,43 +1,47 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int n = mat.size();
-        int m = mat[0].size();
-        vector<vector<int>>ans(n,vector<int>(m));
+        int m = mat.size();
+        int n = mat[0].size();
 
-        queue<tuple<int,int,int>>q;
-        vector<vector<bool>>vis(n,vector<bool>(m,false));
-        int minDis = 0;
+        queue<tuple<int,int,int>> q;
+        vector<vector<int>> vis(m, vector<int>(n, 0));
+        vector<vector<int>> ans(m, vector<int>(n, 0));
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(mat[i][j]==0){
-                    q.push({i,j,0});
-                    vis[i][j] = true;
+        // Put all 0s into queue
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(mat[i][j] == 0) {
+                    q.push({i, j, 0});
+                    vis[i][j] = 1;
                 }
             }
         }
-        int x[4] = {0,-1,0,1};
-        int y[4] = {-1,0,1,0};
 
-        while(!q.empty()){
-            int size = q.size();
-            minDis++;
-            while(size--){
-                auto [row,col,dis] = q.front(); q.pop();
-                ans[row][col] = dis;
-                for(int dir=0;dir<4;dir++){
-                    int ni = row + x[dir];
-                    int nj = col + y[dir];
-                    if(ni>=0 && nj>=0 && ni<n && nj<m && !vis[ni][nj]){
-                        q.push({ni,nj,dis+1});
-                        vis[ni][nj] = true;
-                    }
+        int dx[4] = {-1, 1, 0, 0};
+        int dy[4] = {0, 0, -1, 1};
+
+        // Multi-source BFS
+        while(!q.empty()) {
+            auto [row, col, dist] = q.front();
+            q.pop();
+
+            ans[row][col] = dist;
+
+            for(int dir = 0; dir < 4; dir++) {
+                int newRow = row + dx[dir];
+                int newCol = col + dy[dir];
+
+                if(newRow >= 0 && newRow < m &&
+                   newCol >= 0 && newCol < n &&
+                   !vis[newRow][newCol]) {
+
+                    vis[newRow][newCol] = 1;
+                    q.push({newRow, newCol, dist + 1});
                 }
             }
         }
 
         return ans;
-        
     }
 };
