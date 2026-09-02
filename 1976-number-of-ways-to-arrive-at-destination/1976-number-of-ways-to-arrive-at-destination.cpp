@@ -1,55 +1,55 @@
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        const int MOD = 1e9 + 7;
 
-        vector<vector<pair<int, int>>> adj(n);
+        vector<vector<pair<int,int>>> adj(n);
 
-        for (auto it : roads) {
+        for(auto it : roads){
             adj[it[0]].push_back({it[1], it[2]});
             adj[it[1]].push_back({it[0], it[2]});
         }
 
-        // {shortest distance, number of ways}
-        vector<pair<long long, int>> dist(n, {LLONG_MAX, 0});
+        vector<long long> dist(n, LLONG_MAX);
+        vector<int> ways(n, 0);
 
-        dist[0] = {0, 1};
+        dist[0] = 0;
+        ways[0] = 1;
+
+        const int MOD = 1e9 + 7;
 
         priority_queue<
-            pair<long long, int>,
-            vector<pair<long long, int>>,
-            greater<pair<long long, int>>
+            pair<long long,int>,
+            vector<pair<long long,int>>,
+            greater<pair<long long,int>>
         > pq;
 
         pq.push({0, 0});
 
-        while (!pq.empty()) {
-            auto [dis, node] = pq.top();
+        while(!pq.empty()) {
+
+            auto [d, u] = pq.top();
             pq.pop();
 
-            if (dis > dist[node].first)
-                continue;
+            if(d > dist[u]) continue;
 
-            for (auto [nbr, wt] : adj[node]) {
+            for(auto [v, wt] : adj[u]) {
 
-                long long newDist = dis + wt;
+                long long newDis = dist[u] + wt;
 
-                // Found a shorter path
-                if (newDist < dist[nbr].first) {
-                    dist[nbr].first = newDist;
-                    dist[nbr].second = dist[node].second;
+                if(newDis < dist[v]) {
 
-                    pq.push({newDist, nbr});
+                    dist[v] = newDis;
+                    ways[v] = ways[u];
+
+                    pq.push({dist[v], v});
                 }
+                else if(newDis == dist[v]) {
 
-                // Found another shortest path
-                else if (newDist == dist[nbr].first) {
-                    dist[nbr].second =
-                        (dist[nbr].second + dist[node].second) % MOD;
+                    ways[v] = (ways[v] + ways[u]) % MOD;
                 }
             }
         }
 
-        return dist[n - 1].second;
+        return ways[n-1];
     }
 };
