@@ -167,6 +167,7 @@ Refer to the respective source files for usage examples and function description
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -334,6 +335,7 @@ Refer to the respective source files for usage examples and function description
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
@@ -357,6 +359,7 @@ Refer to the respective source files for usage examples and function description
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
@@ -388,6 +391,7 @@ Refer to the respective source files for usage examples and function description
 | [0207-course-schedule](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
@@ -458,12 +462,14 @@ Refer to the respective source files for usage examples and function description
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
