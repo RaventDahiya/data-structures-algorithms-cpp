@@ -1,29 +1,28 @@
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst,int k) {
-        vector<vector<pair<int, int>>> adj(n);
-        for (auto f : flights) {
-            adj[f[0]].push_back({f[1], f[2]});
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
+        vector<vector<pair<int,int>>>adj(n);
+        for(auto it : flights){
+            adj[it[0]].push_back({it[1],it[2]});
         }
 
-        vector<int> dist(n, INT_MAX);
+        queue<tuple<int,int,int>>pq;
+        pq.push({0,src,0}); //hope,node,dis
+        
+        vector<int>dist(n,INT_MAX);
         dist[src] = 0;
 
-        queue<tuple<int, int, int>> q;
-        q.push({0,src,0}); //hope , node , dis
+        while(!pq.empty()){
+            auto [hops,u,d] = pq.front(); pq.pop();
+            if(hops > k) continue;
 
-        while (!q.empty()) {
-            auto [hops,node, dis] = q.front(); q.pop();
-            if (hops > k) continue;
-
-            for (auto [nbr, wt] : adj[node]) {
-                if (dis + wt < dist[nbr]) {
-                    dist[nbr] = dis + wt;
-                    q.push({hops+1,nbr,dist[nbr]});
+            for(auto [v,wt] : adj[u]){
+                if(d + wt < dist[v]){
+                    dist[v] = d + wt;
+                    pq.push({hops+1,v,dist[v]});
                 }
             }
         }
-
-        return dist[dst]==INT_MAX ? -1 :dist[dst];
+        return dist[dst]!=INT_MAX ? dist[dst] : -1;
     }
 };
