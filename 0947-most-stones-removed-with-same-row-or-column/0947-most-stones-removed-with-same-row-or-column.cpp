@@ -60,27 +60,29 @@ public:
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
+        int totalStones = stones.size();
         int n = 0;
         int m = 0;
+        int comp = 0;
+        
         for(auto it : stones){
-            int i = it[0];
-            int j = it[1];
-            n = max(n,i);
-            m = max(m,j);
+            n = max(it[0],n);
+            m = max(m,it[1]);
         }
         DisjointSet ds(n+m+1);
-        unordered_set<int>st;
+        unordered_map<int,int>stoneNodes;
         for(auto it : stones){
-            int i = it[0];
-            int j = it[1] + n + 1;
-            ds.unionBySize(i,j);
-            st.insert(i);
-            st.insert(j);
+            int nodeRow = it[0];
+            int nodeCol = n + it[1] + 1;
+            stoneNodes[nodeRow] = 1;
+            stoneNodes[nodeCol] = 1;
+            ds.unionBySize(nodeRow,nodeCol);
         }
-        int compCount = 0;
-        for(auto it : st){
-            if( it == ds.findUPar(it)) compCount++;
+        for(int i=0;i<n+m+1;i++){
+            if(stoneNodes.count(i)){
+                if(ds.findUPar(i)==i) comp++;
+            }
         }
-        return stones.size() - compCount;
+        return totalStones - comp;
     }
 };
