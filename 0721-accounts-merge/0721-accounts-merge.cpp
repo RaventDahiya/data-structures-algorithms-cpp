@@ -57,39 +57,44 @@ public:
     }
     
 };
+
 class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        int n = accounts.size();
-        DisjointSet ds(n);
+        
         unordered_map<string,int>mp;
+        int n = accounts.size();
+        vector<vector<string>>ans(n);
+        DisjointSet ds(n);
+
         for(int i=0;i<n;i++){
             for(int j=1;j<accounts[i].size();j++){
-                string mail = accounts[i][j];
-                if(mp.count(mail)){ //present
-                    ds.unionBySize(i,mp[mail]);
+                string str = accounts[i][j];
+                if(mp.count(str)){
+                    ds.unionBySize(i,mp[str]);
                 }else{
-                    mp[mail] = i;
+                    mp[str] = i;
                 }
             }
         }
-        vector<vector<string>>mails(n);
-        for(auto [mail,node] : mp){
-            int ulp_node = ds.findUPar(node);
-            mails[ulp_node].push_back(mail);
+
+        for(auto [str,index]:mp){
+            int ulp_index = ds.findUPar(index);
+            ans[ulp_index].push_back(str);
         }
-        vector<vector<string>>ans;
+
+        vector<vector<string>>finalAns;
         for(int i=0;i<n;i++){
-            if(mails[i].size()){
+            if(ans[i].size()!=0){
                 vector<string>temp;
                 temp.push_back(accounts[i][0]);
-                sort(mails[i].begin(),mails[i].end());
-                for(auto str : mails[i]){
+                sort(ans[i].begin(),ans[i].end());
+                for(auto str : ans[i]){
                     temp.push_back(str);
                 }
-                ans.push_back(temp);
+                finalAns.push_back(temp);
             }
         }
-        return ans;
+        return finalAns;
     }
 };
