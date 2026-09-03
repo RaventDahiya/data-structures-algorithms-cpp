@@ -28,7 +28,7 @@ class DisjointSet{
             }
         }
 
-        void unionBysize(int u,int v){
+        void unionBySize(int u,int v){
             int ulp_u = findUpar(u);
             int ulp_v = findUpar(v);
             if(ulp_u == ulp_v) return;
@@ -56,7 +56,7 @@ public:
         for(auto it : connections){
             int u = it[0];
             int v = it[1];
-            ds.unionByRank(u,v);
+            ds.unionBySize(u,v);
         }
         
         //count no of disconnected comp
