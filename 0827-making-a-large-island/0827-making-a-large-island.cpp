@@ -1,12 +1,10 @@
 class DisjointSet {
-    
 public:
-    vector<int> rank, parent, size;
-
+    vector<int> rank, parent,size;
     DisjointSet(int n) {
         rank.resize(n + 1, 0);
         parent.resize(n + 1);
-        size.resize(n + 1, 1);
+        size.resize(n+1,1);
         for (int i = 0; i <= n; i++) {
             parent[i] = i;
         }
@@ -30,9 +28,11 @@ public:
 
         if (rank[ulp_u] < rank[ulp_v]) {
             parent[ulp_u] = ulp_v;
-        } else if (rank[ulp_v] < rank[ulp_u]) {
+        }
+        else if (rank[ulp_v] < rank[ulp_u]) {
             parent[ulp_v] = ulp_u;
-        } else {
+        }
+        else {
             parent[ulp_v] = ulp_u;
             rank[ulp_u]++;
         }
@@ -49,56 +49,61 @@ public:
         if (size[ulp_u] < size[ulp_v]) {
             parent[ulp_u] = ulp_v;
             size[ulp_v] += size[ulp_u];
-        } else {
+        }else {
             parent[ulp_v] = ulp_u;
             size[ulp_u] += size[ulp_v];
         }
     }
+    
 };
 class Solution {
 public:
     int largestIsland(vector<vector<int>>& grid) {
         int n = grid.size();
-        DisjointSet ds(n * n);
-        int x[] = {0, -1, 0, 1};
-        int y[] = {-1, 0, 1, 0};
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j]) {
-                    int dsIndex = i * n + j;
-                    for (int dir = 0; dir < 4; dir++) {
-                        int newX = i + x[dir];
-                        int newY = j + y[dir];
-                        if (newX >= 0 && newY >= 0 && newX < n && newY < n && grid[newX][newY]) {
-                            int nbrDsIndex = newX * n + newY;
-                            ds.unionBySize(nbrDsIndex,dsIndex);
+        DisjointSet ds(n*n);
+        int dx[4] = {-1,1,0,0};
+        int dy[4] = {0,0,-1,1};
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1){
+                    int u = i*n + j;
+                    for(int dir=0;dir<4;dir++){
+                        int newRow = i + dx[dir];
+                        int newCol = j + dy[dir];
+                        if(newRow>=0 && newCol>=0 && newRow<n && newCol<n && grid[newRow][newCol]==1){
+                            int v = newRow*n+newCol;
+                            if(ds.findUPar(u)!=ds.findUPar(v)){
+                                ds.unionBySize(u,v);
+                            }
                         }
                     }
                 }
             }
         }
-        int ans = INT_MIN;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0) {
-                    int dsIndex = i * n + j;
-                    int count = 1;
-                    unordered_set<int>st;
-                    for (int dir = 0; dir < 4; dir++) {
-                        int newX = i + x[dir];
-                        int newY = j + y[dir];
-                        if (newX >= 0 && newY >= 0 && newX < n && newY < n && grid[newX][newY]) {
-                            int nbrDsIndex = newX * n + newY;
-                            st.insert(ds.findUPar(nbrDsIndex));
+        int maxSizeIsland = INT_MIN;
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==0){
+                    unordered_set<int>st; //unique UPar 
+                    for(int dir=0;dir<4;dir++){
+                        int newRow = i + dx[dir];
+                        int newCol = j + dy[dir];
+                        if(newRow>=0 && newCol>=0 && newRow<n && newCol<n && grid[newRow][newCol]==1){
+                            int node = newRow*n+newCol;
+                            st.insert(ds.findUPar(node));
                         }
                     }
-                    for(auto it : st){
-                        count += ds.size[it];
+                    int size = 1;
+                    for(auto node : st){
+                        size += ds.size[node];
                     }
-                    ans = max(ans,count);
+                    maxSizeIsland = max(maxSizeIsland,size);
                 }
             }
         }
-        return ans!=INT_MIN ? ans : n*n;
+        if(maxSizeIsland == INT_MIN) return n*n;
+        return maxSizeIsland;
     }
 };
