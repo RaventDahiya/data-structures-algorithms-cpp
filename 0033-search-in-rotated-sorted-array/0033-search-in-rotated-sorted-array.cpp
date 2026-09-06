@@ -1,18 +1,23 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int t) {
-        int s = 0;
-        int e = nums.size()-1;
+    int search(vector<int>& a, int t) {
+        int l = 0 , r = a.size()-1;
 
-        while(s<=e){
-            int mid = s + (e-s)/2;
-            if(nums[mid]==t) return mid;
-            if(nums[s]<=nums[mid]){
-                if(t>=nums[s] && t<=nums[mid]) e = mid - 1;
-                else s = mid + 1;
-            }else{
-                if(t>=nums[mid] && t<=nums[e]) s = mid + 1;
-                else e = mid - 1;
+        while(l<=r){
+            int m = l + (r-l)/2;
+            if(a[m]==t) return m;
+            else if(a[l]<=a[m]){ //left is sorted
+                if(t>=a[l] && t<=a[m]){ //left side
+                    r = m -1;
+                }else{
+                    l =m+1;
+                }
+            }else{//right side is sorted
+                if(t>=a[m] && t<=a[r]){ //contains 
+                    l = m +1;
+                }else{
+                    r = m-1;
+                }
             }
         }
         return -1;
