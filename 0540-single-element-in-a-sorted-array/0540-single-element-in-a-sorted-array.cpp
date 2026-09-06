@@ -2,19 +2,19 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& a) {
         int l = 0, r = a.size() - 1;
-        if(a.size()==1) return a[0];
+        int n = a.size();
+        if (a.size() == 1)
+            return a[0];
+        if (a[0] != a[1])
+            return a[0];
+        if (a[n - 1] != a[n - 2])
+            return a[n - 1];
+            
         while (l <= r) {
             int m = l + (r - l) / 2;
-            if (m == 0) {
-                if (a[m] != a[m + 1])
-                    return a[m];
-            } else if (m == a.size() - 1) {
-                if (a[m] != a[m - 1])
-                    return a[m];
-            } else {
-                if (a[m] != a[m + 1] && a[m] != a[m - 1])
-                    return a[m];
-            }
+
+            if (a[m] != a[m + 1] && a[m] != a[m - 1])
+                return a[m];
 
             if (a[m] == a[m - 1]) { // left match
                 int len = m + 1;
