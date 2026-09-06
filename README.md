@@ -96,6 +96,7 @@ Refer to the respective source files for usage examples and function description
 | [0485-max-consecutive-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
@@ -320,6 +321,7 @@ Refer to the respective source files for usage examples and function description
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
