@@ -3,12 +3,10 @@ public:
     bool isValid(vector<int>& piles, int h,int k){
         long long timeTaken = 0;
         for(auto it : piles){
-            if(k>=it){
-                timeTaken++;
-            }else{
+
                 timeTaken += it/k;
                 if(it%k) timeTaken++;
-            }
+            
         }
         if(timeTaken<=h) return true;
         return false;
