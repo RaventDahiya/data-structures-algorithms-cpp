@@ -9,6 +9,7 @@ public:
                 if(adjFlower == k){ //flower made
                     totalFlower++;
                     adjFlower = 0;
+                    if(totalFlower==m) return true;
                 }
             }else{
                 adjFlower = 0;
