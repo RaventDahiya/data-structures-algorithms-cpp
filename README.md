@@ -636,4 +636,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0785-is-graph-bipartite) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
