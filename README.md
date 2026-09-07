@@ -123,6 +123,7 @@ Refer to the respective source files for usage examples and function description
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -330,6 +331,7 @@ Refer to the respective source files for usage examples and function description
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
