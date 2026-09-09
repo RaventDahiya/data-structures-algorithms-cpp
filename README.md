@@ -331,6 +331,7 @@ Refer to the respective source files for usage examples and function description
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0754-reach-a-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0875-koko-eating-bananas) |
@@ -526,6 +527,7 @@ Refer to the respective source files for usage examples and function description
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
+| [0754-reach-a-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0754-reach-a-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
