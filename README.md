@@ -317,6 +317,7 @@ Refer to the respective source files for usage examples and function description
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -344,6 +345,7 @@ Refer to the respective source files for usage examples and function description
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -375,6 +377,7 @@ Refer to the respective source files for usage examples and function description
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0133-clone-graph) |
