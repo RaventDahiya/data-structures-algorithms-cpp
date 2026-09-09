@@ -317,6 +317,7 @@ Refer to the respective source files for usage examples and function description
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -343,6 +344,7 @@ Refer to the respective source files for usage examples and function description
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -350,6 +352,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0207-course-schedule) |
@@ -668,5 +671,6 @@ Refer to the respective source files for usage examples and function description
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
