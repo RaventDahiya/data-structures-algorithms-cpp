@@ -249,6 +249,7 @@ Refer to the respective source files for usage examples and function description
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
+| [0991-broken-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0991-broken-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -547,6 +548,7 @@ Refer to the respective source files for usage examples and function description
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0754-reach-a-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0754-reach-a-number) |
+| [0991-broken-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
