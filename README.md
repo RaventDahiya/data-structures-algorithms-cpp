@@ -108,6 +108,7 @@ Refer to the respective source files for usage examples and function description
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0746-min-cost-climbing-stairs) |
@@ -163,6 +164,7 @@ Refer to the respective source files for usage examples and function description
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +180,7 @@ Refer to the respective source files for usage examples and function description
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0778-swim-in-rising-water) |
@@ -235,6 +238,7 @@ Refer to the respective source files for usage examples and function description
 | [0567-permutation-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0904-fruit-into-baskets) |
@@ -316,12 +320,14 @@ Refer to the respective source files for usage examples and function description
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0992-subarrays-with-k-different-integers) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 ## Tree
 |  |
 | ------- |
@@ -511,6 +517,7 @@ Refer to the respective source files for usage examples and function description
 | [0438-find-all-anagrams-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -715,4 +722,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
