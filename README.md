@@ -82,6 +82,7 @@ Refer to the respective source files for usage examples and function description
 | [0152-maximum-product-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
@@ -472,6 +473,7 @@ Refer to the respective source files for usage examples and function description
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
