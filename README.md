@@ -73,6 +73,7 @@ Refer to the respective source files for usage examples and function description
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -644,6 +645,7 @@ Refer to the respective source files for usage examples and function description
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
@@ -694,6 +696,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 ## Longest Increasing Subsequence
@@ -708,4 +711,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
