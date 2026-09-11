@@ -109,6 +109,7 @@ Refer to the respective source files for usage examples and function description
 | [0643-maximum-average-subarray-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
@@ -477,6 +478,7 @@ Refer to the respective source files for usage examples and function description
 | [0300-longest-increasing-subsequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
