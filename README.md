@@ -478,6 +478,7 @@ Refer to the respective source files for usage examples and function description
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -505,6 +506,7 @@ Refer to the respective source files for usage examples and function description
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
