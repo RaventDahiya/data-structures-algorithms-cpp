@@ -6,34 +6,44 @@ public:
         int i = 0;
         int j = 0;
 
-        vector<int>temp;
-
+        int size = 0;
+        int midIndex1 = (n+m)/2;
+        int midIndex2 = ((n+m)/2) - 1;
+        int mid1 = -1;
+        int mid2 = -1;
         while(i<n && j<m){
             if(nums1[i]<nums2[j]){
-                temp.push_back(nums1[i]);
+                if(size == midIndex1) mid1 = nums1[i];
+                if(size == midIndex2) mid2 = nums1[i];
                 i++;
+                size++;
             }else{
-                temp.push_back(nums2[j]);
+                if(size == midIndex1) mid1 = nums2[j];
+                if(size == midIndex2) mid2 = nums2[j];
                 j++;
+                size++;
             }
         }
 
         while(i<n){
-            temp.push_back(nums1[i]);
+            if(size == midIndex1) mid1 = nums1[i];
+            if(size == midIndex2) mid2 = nums1[i];
+            size++; 
             i++;
         }
 
         while(j<m){
-            temp.push_back(nums2[j]);
+            if(size == midIndex1) mid1 = nums2[j];
+            if(size == midIndex2) mid2 = nums2[j];
+            size++;
             j++;
         }
 
-        int len = temp.size();
 
-        if(len%2==0){
-            return ((double)temp[len/2] + double(temp[(len/2)-1]))/2.0;
+        if(size%2==0){
+            return ((double)mid1 + (double)mid2 )/2.0;
         }else{
-            return (double)temp[len/2];
+            return (double)mid1;
         }
 
         return -1;
