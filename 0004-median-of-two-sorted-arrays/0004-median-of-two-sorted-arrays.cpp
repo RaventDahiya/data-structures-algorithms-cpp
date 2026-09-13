@@ -3,49 +3,29 @@ public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
         int m = nums2.size();
-        int i = 0;
-        int j = 0;
+        if (n > m)
+            return findMedianSortedArrays(nums2, nums1);
 
-        int size = 0;
-        int midIndex1 = (n+m)/2;
-        int midIndex2 = ((n+m)/2) - 1;
-        int mid1 = -1;
-        int mid2 = -1;
-        while(i<n && j<m){
-            if(nums1[i]<nums2[j]){
-                if(size == midIndex1) mid1 = nums1[i];
-                if(size == midIndex2) mid2 = nums1[i];
-                i++;
-                size++;
-            }else{
-                if(size == midIndex1) mid1 = nums2[j];
-                if(size == midIndex2) mid2 = nums2[j];
-                j++;
-                size++;
+        int half = (n + m + 1) / 2;
+        int left = 0;
+        int right = n;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            int l1 = mid - 1 >= 0 ? nums1[mid - 1] : INT_MIN;
+            int l2 = half - mid - 1 >= 0 ? nums2[half - mid - 1] : INT_MIN;
+            int r1 = mid < n ? nums1[mid] : INT_MAX;
+            int r2 = half - mid < m ? nums2[half - mid] : INT_MAX;
+
+            if (l1 <= r2 && l2 <= r1) {
+                if ((n + m) % 2 == 1) return (double)max(l1, l2);
+                return (double)(max(l1, l2) + min(r1, r2)) / 2.0;
+            } else if (l1 > r2) {
+                right = mid - 1;
+            } else {
+                left = mid + 1;
             }
         }
-
-        while(i<n){
-            if(size == midIndex1) mid1 = nums1[i];
-            if(size == midIndex2) mid2 = nums1[i];
-            size++; 
-            i++;
-        }
-
-        while(j<m){
-            if(size == midIndex1) mid1 = nums2[j];
-            if(size == midIndex2) mid2 = nums2[j];
-            size++;
-            j++;
-        }
-
-
-        if(size%2==0){
-            return ((double)mid1 + (double)mid2 )/2.0;
-        }else{
-            return (double)mid1;
-        }
-
-        return -1;
+        return 0;
     }
 };
