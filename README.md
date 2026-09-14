@@ -138,6 +138,7 @@ Refer to the respective source files for usage examples and function description
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2643-row-with-maximum-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2643-row-with-maximum-ones) |
+| [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -745,4 +746,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
