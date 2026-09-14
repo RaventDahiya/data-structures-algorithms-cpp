@@ -59,6 +59,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -71,8 +72,10 @@ Refer to the respective source files for usage examples and function description
 | [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -82,6 +85,7 @@ Refer to the respective source files for usage examples and function description
 | [0152-maximum-product-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
@@ -89,6 +93,7 @@ Refer to the respective source files for usage examples and function description
 | [0219-contains-duplicate-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0300-longest-increasing-subsequence) |
@@ -106,8 +111,10 @@ Refer to the respective source files for usage examples and function description
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
@@ -129,14 +136,19 @@ Refer to the respective source files for usage examples and function description
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1901-find-a-peak-element-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2643-row-with-maximum-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2643-row-with-maximum-ones) |
+| [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
@@ -160,6 +172,7 @@ Refer to the respective source files for usage examples and function description
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -175,6 +188,7 @@ Refer to the respective source files for usage examples and function description
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0778-swim-in-rising-water) |
@@ -229,8 +243,10 @@ Refer to the respective source files for usage examples and function description
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0904-fruit-into-baskets) |
@@ -249,6 +265,7 @@ Refer to the respective source files for usage examples and function description
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
+| [0991-broken-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0991-broken-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -259,6 +276,7 @@ Refer to the respective source files for usage examples and function description
 | [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -286,6 +304,7 @@ Refer to the respective source files for usage examples and function description
 | [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Design
@@ -309,12 +328,14 @@ Refer to the respective source files for usage examples and function description
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0992-subarrays-with-k-different-integers) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 ## Tree
 |  |
 | ------- |
@@ -325,11 +346,14 @@ Refer to the respective source files for usage examples and function description
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
@@ -344,6 +368,7 @@ Refer to the respective source files for usage examples and function description
 | [1004-max-consecutive-ones-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -441,8 +466,10 @@ Refer to the respective source files for usage examples and function description
 | [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
@@ -452,6 +479,8 @@ Refer to the respective source files for usage examples and function description
 | [1020-number-of-enclaves](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1901-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2643-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -461,14 +490,20 @@ Refer to the respective source files for usage examples and function description
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0072-edit-distance) |
+| [0097-interleaving-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -484,9 +519,12 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0076-minimum-window-substring) |
+| [0097-interleaving-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0205-isomorphic-strings) |
@@ -496,6 +534,8 @@ Refer to the respective source files for usage examples and function description
 | [0424-longest-repeating-character-replacement](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -539,10 +579,13 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0754-reach-a-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0754-reach-a-number) |
+| [0836-rectangle-overlap](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0836-rectangle-overlap) |
+| [0991-broken-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
@@ -628,6 +671,7 @@ Refer to the respective source files for usage examples and function description
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
@@ -677,10 +721,36 @@ Refer to the respective source files for usage examples and function description
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
