@@ -1,49 +1,37 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& a, vector<int>& b) {
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int n = nums1.size();
+        int m = nums2.size();
 
-        // Binary search on smaller array
-        if (a.size() > b.size())
-            return findMedianSortedArrays(b, a);
+        if (n > m) return findMedianSortedArrays(nums2, nums1);
 
-        int n = a.size();
-        int m = b.size();
+        int left = 0;
+        int right = n;
+        int half = (n + m + 1) / 2;
 
-        int low = 0;
-        int high = n;
+        while (left <= right) {
+            int mid1 = left + (right - left) / 2;
+            int mid2 = half - mid1;
 
-        while (low <= high) {
+            int r1 = mid1 < n ? nums1[mid1] : INT_MAX;
+            int r2 = mid2 < m ? nums2[mid2] : INT_MAX;
+            int l1 = mid1 - 1 >= 0 ? nums1[mid1 - 1] : INT_MIN;
+            int l2 = mid2 - 1 >= 0 ? nums2[mid2 - 1] : INT_MIN;
 
-            int mid1 = low + (high - low) / 2;
-            int mid2 = (n + m + 1) / 2 - mid1;
-
-            int l1 = (mid1 == 0) ? INT_MIN : a[mid1 - 1];
-            int r1 = (mid1 == n) ? INT_MAX : a[mid1];
-
-            int l2 = (mid2 == 0) ? INT_MIN : b[mid2 - 1];
-            int r2 = (mid2 == m) ? INT_MAX : b[mid2];
-
-            // Correct partition
-            if (l1 <= r2 && l2 <= r1) {
-
-                if ((n + m) % 2 == 1) {
-                    return max(l1, l2);
+            if(l1<=r2 && l2<=r1){
+                if((n + m ) % 2 == 0){ //even
+                    return ((double)max(l1,l2) + (double)min(r1,r2))/2.0;
+                }else{
+                    return (double)max(l1,l2);
                 }
-
-                return (max(l1, l2) + min(r1, r2)) / 2.0;
-            }
-
-            // Too many elements taken from a
-            else if (l1 > r2) {
-                high = mid1 - 1;
-            }
-
-            // Too few elements taken from a
-            else {
-                low = mid1 + 1;
+            }else if(l2 > r1){
+                left = mid1 + 1;
+            }else{
+                right = mid1 - 1;
             }
         }
 
-        return 0;
+        return -1;
     }
 };
