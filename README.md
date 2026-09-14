@@ -72,6 +72,7 @@ Refer to the respective source files for usage examples and function description
 | [0053-maximum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
@@ -344,6 +345,7 @@ Refer to the respective source files for usage examples and function description
 | [0004-median-of-two-sorted-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0209-minimum-size-subarray-sum) |
@@ -458,6 +460,7 @@ Refer to the respective source files for usage examples and function description
 | [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0304-range-sum-query-2d-immutable) |
