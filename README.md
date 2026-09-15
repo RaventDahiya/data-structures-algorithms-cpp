@@ -95,6 +95,7 @@ Refer to the respective source files for usage examples and function description
 | [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0300-longest-increasing-subsequence) |
@@ -492,6 +493,7 @@ Refer to the respective source files for usage examples and function description
 | [0137-single-number-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0338-counting-bits) |
