@@ -89,6 +89,7 @@ Refer to the respective source files for usage examples and function description
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
@@ -597,6 +598,7 @@ Refer to the respective source files for usage examples and function description
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
@@ -771,5 +773,22 @@ Refer to the respective source files for usage examples and function description
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
