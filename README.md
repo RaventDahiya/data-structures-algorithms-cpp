@@ -487,6 +487,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0318-maximum-product-of-word-lengths) |
 ## Dynamic Programming
@@ -585,6 +586,7 @@ Refer to the respective source files for usage examples and function description
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0754-reach-a-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0754-reach-a-number) |
@@ -596,6 +598,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
