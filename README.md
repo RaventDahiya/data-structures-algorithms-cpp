@@ -212,6 +212,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0237-delete-node-in-a-linked-list) |
@@ -235,6 +236,7 @@ Refer to the respective source files for usage examples and function description
 | [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0205-isomorphic-strings) |
@@ -310,6 +312,7 @@ Refer to the respective source files for usage examples and function description
 | [0088-merge-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
@@ -658,6 +661,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
 ## Quicksort
 |  |
