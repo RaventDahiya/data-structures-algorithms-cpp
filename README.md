@@ -210,6 +210,7 @@ Refer to the respective source files for usage examples and function description
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0142-linked-list-cycle-ii) |
@@ -306,6 +307,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0015-3sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
