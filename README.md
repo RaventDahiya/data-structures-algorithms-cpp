@@ -212,6 +212,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
@@ -308,6 +309,7 @@ Refer to the respective source files for usage examples and function description
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
@@ -616,6 +618,7 @@ Refer to the respective source files for usage examples and function description
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -751,6 +754,7 @@ Refer to the respective source files for usage examples and function description
 | [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
