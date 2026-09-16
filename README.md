@@ -213,6 +213,7 @@ Refer to the respective source files for usage examples and function description
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
