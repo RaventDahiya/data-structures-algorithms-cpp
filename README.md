@@ -222,6 +222,7 @@ Refer to the respective source files for usage examples and function description
 | [0237-delete-node-in-a-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Merge Sort
 |  |
 | ------- |
