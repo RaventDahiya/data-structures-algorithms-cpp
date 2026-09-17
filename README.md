@@ -211,6 +211,7 @@ Refer to the respective source files for usage examples and function description
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0092-reverse-linked-list-ii) |
@@ -613,6 +614,7 @@ Refer to the respective source files for usage examples and function description
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
@@ -629,6 +631,7 @@ Refer to the respective source files for usage examples and function description
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0143-reorder-list) |
