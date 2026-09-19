@@ -634,6 +634,7 @@ Refer to the respective source files for usage examples and function description
 | [0836-rectangle-overlap](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0836-rectangle-overlap) |
 | [0991-broken-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
@@ -809,6 +810,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Enumeration
 |  |
 | ------- |
