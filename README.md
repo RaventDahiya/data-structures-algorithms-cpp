@@ -830,4 +830,8 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
