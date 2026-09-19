@@ -215,6 +215,7 @@ Refer to the respective source files for usage examples and function description
 | [0002-add-two-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
@@ -638,6 +639,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
