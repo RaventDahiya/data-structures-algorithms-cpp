@@ -8,37 +8,33 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class compare {
-public:
-    bool operator()(ListNode* a, ListNode* b) {
-        return a->val > b->val; 
-    }
-};
-
 class Solution {
 public:
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+    ListNode dummy(0);
+    ListNode* tail = &dummy;
+    
+    while (l1 && l2) {
+        if (l1->val <= l2->val) {
+            tail->next = l1;
+            l1 = l1->next;
+        } else {
+            tail->next = l2;
+            l2 = l2->next;
+        }
+        tail = tail->next;
+    }
+    
+    tail->next = l1 ? l1 : l2;
+    return dummy.next;
+}
+// Time: O(n + m), Space: O(1)
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode* ans = new ListNode(-1);
-        ListNode* curr = ans;
-        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
-
-        for (int i = 0; i < lists.size(); i++) {
-            if(lists[i] != NULL){
-                pq.push(lists[i]);
-            }
+        if(lists.empty()) return nullptr;
+        ListNode* head = lists[0];
+        for(int i=1;i<lists.size();i++){
+            head = mergeTwoLists(head,lists[i]);
         }
-        while(!pq.empty()){
-            auto front = pq.top(); 
-            pq.pop();
-
-            curr->next = new ListNode(front->val);
-            curr = curr->next;
-
-            if(front->next != NULL){
-                pq.push(front->next);
-            }
-        }
-
-        return ans->next;
+        return head;
     }
 };
