@@ -5,7 +5,7 @@ public:
     int val;
     Node* next;
     Node* random;
-    
+
     Node(int _val) {
         val = _val;
         next = NULL;
@@ -17,34 +17,39 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(!head) return nullptr;
+        if (!head)
+            return nullptr;
 
-        unordered_map<Node*,Node*>mp;
-        Node dummy(0);
-        Node* newCurr = &dummy;
+        Node* curr = head;
 
-        Node* oldCurr = head;
-
-        while(oldCurr){
-            newCurr->next = new Node(oldCurr->val);
-            newCurr = newCurr->next;
-            mp[oldCurr] = newCurr;
-            oldCurr = oldCurr->next;
+        while (curr) {
+            Node* nextNode = curr->next;
+            Node* newNode = new Node(curr->val);
+            curr->next = newNode;
+            if (nextNode)
+                newNode->next = nextNode;
+            curr = nextNode;
         }
+        curr = head;
 
-        oldCurr = head;
-
-        while(oldCurr){
-            Node* oldRandom = oldCurr->random;
-            Node* temp1 = mp[oldCurr];
-            Node* temp2 = mp[oldRandom];
-            if(oldRandom){
-                temp1->random = temp2;
+        while (curr && curr->next) {
+            Node* currRandom = curr->random;
+            if (currRandom) {
+                curr->next->random = currRandom->next;
             }
-            oldCurr = oldCurr->next;
+            curr = curr->next->next;
         }
 
-        return dummy.next;
+        curr = head;
+        Node* dummy = new Node(0);
+        Node* copyCurr = dummy;
+        while (curr) {
+            copyCurr->next = curr->next;
+            curr->next = curr->next->next;
+            curr = curr->next;
+            copyCurr = copyCurr->next;
+        }
 
+        return dummy->next;
     }
 };
