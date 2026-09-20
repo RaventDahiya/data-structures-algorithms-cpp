@@ -21,11 +21,11 @@ public:
         ListNode* temp = &dummy;
 
         while(!pq.empty()){
-            auto it = pq.top(); pq.pop();
-            if(it.second->next){
-                pq.push({it.second->next->val,it.second->next});
+            auto [val,node] = pq.top(); pq.pop();
+            if(node->next){
+                pq.push({node->next->val,node->next});
             }
-            temp->next = it.second;
+            temp->next = node;
             temp = temp->next;
         }
         return dummy.next;
