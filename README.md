@@ -220,6 +220,7 @@ Refer to the respective source files for usage examples and function description
 | [0024-swap-nodes-in-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0143-reorder-list) |
@@ -248,6 +249,7 @@ Refer to the respective source files for usage examples and function description
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0169-majority-element) |
