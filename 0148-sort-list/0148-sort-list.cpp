@@ -10,29 +10,40 @@
  */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        if (!head)
-            return nullptr;
-        priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>,
-                       greater<pair<int, ListNode*>>>
-            pq;
-        ListNode* curr = head;
-        while(curr){
-            pq.push({curr->val, curr});
-            curr = curr->next;
-        }
-
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         ListNode dummy(0);
-        ListNode* temp = &dummy;
+        ListNode* tail = &dummy;
 
-        while (!pq.empty()) {
-            auto [val, node] = pq.top();
-            pq.pop();
-
-            temp->next = node;
-            temp = temp->next;
+        while (l1 && l2) {
+            if (l1->val <= l2->val) {
+                tail->next = l1;
+                l1 = l1->next;
+            } else {
+                tail->next = l2;
+                l2 = l2->next;
+            }
+            tail = tail->next;
         }
-        temp->next = nullptr;
+
+        tail->next = l1 ? l1 : l2;
         return dummy.next;
+    }
+    // Time: O(n + m), Space: O(1)
+    ListNode* sortList(ListNode* head) {
+        if (!head || !head->next) return head;
+        // find the mid
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = nullptr;
+        while (fast && fast->next) {
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        prev->next = nullptr;
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(slow);
+
+        return mergeTwoLists(left,right);
     }
 };
