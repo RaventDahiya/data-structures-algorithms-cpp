@@ -1,22 +1,20 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int counter1 = INT_MIN;
-        int counter2 = INT_MIN;
+        int n = nums.size();
         int count1 = 0;
         int count2 = 0;
-
-        for(auto& num : nums){
-            if(num == counter1){
-                count1++;
-            }else if(num == counter2){
-                count2++;
-            }else if(count1 == 0){
-                counter1 = num;
+        int c1;
+        int c2;
+        for(auto num : nums){
+            if(num==c1) count1++;
+            else if(num==c2) count2++;
+            else if(count1==0){
                 count1 = 1;
-            }else if(count2 == 0){
-                counter2 = num;
+                c1 = num;
+            }else if(count2==0){
                 count2 = 1;
+                c2 = num;
             }else{
                 count1--;
                 count2--;
@@ -24,14 +22,13 @@ public:
         }
         count1 = 0;
         count2 = 0;
-        for(auto& num : nums){
-            if(num == counter1) count1++;
-            if(num == counter2) count2++;
+        for(auto num : nums){
+            if(num==c1) count1++;
+            if(num==c2) count2++;
         }
         vector<int>ans;
-        int n = nums.size();
-        if(count1 > n/3) ans.push_back(counter1);
-        if(count2 > n/3) ans.push_back(counter2);
+        if(count1>(n/3)) ans.push_back(c1);
+        if(count2>(n/3) && c1!=c2) ans.push_back(c2);
         return ans;
     }
 };
