@@ -78,6 +78,7 @@ Refer to the respective source files for usage examples and function description
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0128-longest-consecutive-sequence) |
@@ -542,6 +543,7 @@ Refer to the respective source files for usage examples and function description
 | [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0152-maximum-product-subarray) |
