@@ -2,24 +2,27 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
-        int breakingPoint = -1;
+        //find breaking poit
+        int breakingIndex = -1;
         for(int i=n-2;i>=0;i--){
-            if(nums[i] < nums[i+1]){
-                breakingPoint = i;
+            if(nums[i]<nums[i+1]){
+                breakingIndex = i;
+                cout<<breakingIndex;
                 break;
             }
         }
-        if(breakingPoint == -1){
+        if(breakingIndex==-1){
             reverse(nums.begin(),nums.end());
-            return;
-        }
-
-        for(int i=n-1;i>=breakingPoint+1;i--){
-            if(nums[i] > nums[breakingPoint]){
-                swap(nums[i],nums[breakingPoint]);
-                reverse(nums.begin()+breakingPoint+1,nums.end());
-                return;
+        }else{
+            //find min from end 
+           for(int i=n-1;i>breakingIndex;i--){
+                if(nums[i]>nums[breakingIndex]){
+                    swap(nums[i],nums[breakingIndex]);
+                    break;
+                }
             }
+            //reverse the rest array
+            reverse(nums.begin()+breakingIndex+1,nums.end());
         }
     }
 };
