@@ -19,13 +19,13 @@ public:
                 return nums[m];
 
             if (nums[m] == nums[m + 1]) {
-                if (m % 2 == 0) { // even
+                if (!(m & 1)) { // even
                     l = m + 2;
                 } else {
                     r = m - 1;
                 }
             } else {
-                if (m % 2 == 0) { // even
+                if (!(m &1)) { // even
                     r = m - 2;
                 } else {
                     l = m + 1;
