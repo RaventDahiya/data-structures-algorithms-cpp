@@ -1,37 +1,38 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
+        int m = nums1.size();
+        int n = nums2.size();
+        if(m>n) return findMedianSortedArrays(nums2,nums1);
 
-        if (n > m) return findMedianSortedArrays(nums2, nums1);
+        int total = m + n;
+        int half = ((total+1)/2);
 
-        int left = 0;
-        int right = n;
-        int half = (n + m + 1) / 2;
+        int l = 0;
+        int r = m;
 
-        while (left <= right) {
-            int mid1 = left + (right - left) / 2;
-            int mid2 = half - mid1;
+        while(l<=r){
+            int m1 = l + (r-l)/2;
+            int m2 = half - m1;
 
-            int r1 = mid1 < n ? nums1[mid1] : INT_MAX;
-            int r2 = mid2 < m ? nums2[mid2] : INT_MAX;
-            int l1 = mid1 - 1 >= 0 ? nums1[mid1 - 1] : INT_MIN;
-            int l2 = mid2 - 1 >= 0 ? nums2[mid2 - 1] : INT_MIN;
+            int l1 = m1-1<0 ? INT_MIN : nums1[m1-1];
+            int l2 = m2-1<0 ? INT_MIN : nums2[m2-1];
+            int r1 = m1>=m ? INT_MAX : nums1[m1];
+            int r2 = m2>=n ? INT_MAX : nums2[m2];
 
             if(l1<=r2 && l2<=r1){
-                if((n + m ) % 2 == 0){ //even
-                    return ((double)max(l1,l2) + (double)min(r1,r2))/2.0;
-                }else{
-                    return (double)max(l1,l2);
+                if(total&1){ //odd
+                    return (double)(max(l1,l2));
+                }else{ //even
+                    return ((double)max(l1,l2)+(double)min(r1,r2))/2.0;
                 }
             }else if(l2 > r1){
-                left = mid1 + 1;
+                l = m1 + 1;
             }else{
-                right = mid1 - 1;
+                r = m1 - 1;
             }
         }
 
-        return -1;
+        return -1.0;
     }
 };
