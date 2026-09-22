@@ -136,6 +136,7 @@ Refer to the respective source files for usage examples and function description
 | [1020-number-of-enclaves](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -408,6 +409,7 @@ Refer to the respective source files for usage examples and function description
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
