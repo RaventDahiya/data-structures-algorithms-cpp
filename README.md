@@ -147,6 +147,7 @@ Refer to the respective source files for usage examples and function description
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2643-row-with-maximum-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
+| [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -649,6 +650,7 @@ Refer to the respective source files for usage examples and function description
 | [1248-count-number-of-nice-subarrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -726,6 +728,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
+| [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
