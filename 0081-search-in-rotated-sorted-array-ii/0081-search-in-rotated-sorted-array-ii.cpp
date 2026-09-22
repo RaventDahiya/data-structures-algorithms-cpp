@@ -1,25 +1,29 @@
 class Solution {
 public:
-    bool search(vector<int>& a, int t) {
-        int l = 0 , r = a.size()-1;
-
-        while(l<=r){
-            int m = l + (r-l)/2;
-            if(a[m]==t) return true;
-            if(a[l]==a[m] && a[m]==a[r]){
-                l++; r--; continue;
+    bool search(vector<int>& nums, int target) {
+        int n = nums.size();
+        int l = 0;
+        int r = n - 1;
+        while (l <= r) {
+            int m = l + (r - l) / 2;
+            if (nums[m] == target)
+                return true;
+            if (nums[m] == nums[l] && nums[m] == nums[r]) {
+                l++;
+                r--;
+                continue;
             }
-            if(a[l]<=a[m]){ //left is sorted
-                if(t>=a[l] && t<=a[m]){ //left side
-                    r = m;
-                }else{
-                    l =m+1;
+            if (nums[m] >= nums[l]) { // left is sorted
+                if (target >= nums[l] && target <= nums[m]) {
+                    r = m - 1;
+                } else {
+                    l = m + 1;
                 }
-            }else if(a[m]<=a[r]){//right side is sorted
-                if(t>=a[m] && t<=a[r]){ //contains 
-                    l = m+1;
-                }else{
-                    r = m;
+            } else { // right is sorted
+                if (target >= nums[m] && target <= nums[r]) {
+                    l = m + 1;
+                } else {
+                    r = m - 1;
                 }
             }
         }
