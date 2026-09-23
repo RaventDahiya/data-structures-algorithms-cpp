@@ -1,17 +1,17 @@
 class Solution {
 public:
-    
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
-        vector<int>ans = {-1,-1};
+        int maxOne = 0;
+        vector<int>ans = {0,0};
         for(int i=0;i<mat.size();i++){
-            vector<int>temp = mat[i];
-            sort(temp.begin(),temp.end());
-            auto it = upper_bound(temp.begin(),temp.end(),0);
-            int idx = it - temp.begin();
-            int totalOne = temp.size() - idx;
-            if(totalOne > ans[1]){
-                ans[0] = i;
-                ans[1] = totalOne;
+            auto &arr = mat[i];
+            sort(arr.begin(),arr.end());
+            auto it = lower_bound(arr.begin(),arr.end(),1);
+            int idx = it-arr.begin();
+            int n = arr.size();
+            if(n-idx > maxOne){
+                maxOne = n - idx;
+                ans = {i,n-idx};
             }
         }
         return ans;
