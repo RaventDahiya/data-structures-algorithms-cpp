@@ -1,36 +1,41 @@
 class Solution {
 public:
-    int findMaxEleIndex(vector<int>&arr){
-        int maxEle = INT_MIN;
-        int maxIndex = -1;
-
-        for(int i=0;i<arr.size();i++){
-            if(arr[i]>maxEle){
-                maxEle = arr[i];
-                maxIndex = i;
-            }
+    int findMaxEleInColMidIndx(vector<vector<int>>& mat,int m){
+        int n = mat.size();
+        int maxi = INT_MIN;
+        int idx = -1;
+        for(int i=0;i<n;i++){
+           if(mat[i][m]>maxi){
+            maxi = mat[i][m];
+            idx = i;
+           }
         }
-        return maxIndex;
+        return idx;
     }
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         int n = mat.size();
         int m = mat[0].size();
 
-        int top = 0;
-        int bottom = n-1;
+        int i = 0;
+        int j = m-1;
 
-        while(top<=bottom){
-            int mid = top + (bottom-top)/2;
-            int maxEleIndex = findMaxEleIndex(mat[mid]);
-            int maxEle = mat[mid][maxEleIndex];
-            int topEle = mid-1>=0 ? mat[mid-1][maxEleIndex] : INT_MIN;
-            int bottomEle = mid+1<n ? mat[mid+1][maxEleIndex] : INT_MIN;
-            if(maxEle > topEle && maxEle > bottomEle) return {mid,maxEleIndex};
-            else if(topEle > maxEle){
-                bottom = mid -1;
-            }else{
-                top = mid + 1;
+        while(i<=j){
+            int mid = i + (j-i)/2;
+            int rowIdx = findMaxEleInColMidIndx(mat,mid);
+            int maxEleInColMid = mat[rowIdx][mid];
+            int l = mid-1>=0 ? mat[rowIdx][mid-1] : INT_MIN;
+            int r = mid+1<m ? mat[rowIdx][mid+1] : INT_MIN;
+
+            if(maxEleInColMid > l && maxEleInColMid > r){
+                return {rowIdx,mid};
             }
+
+            if(l > maxEleInColMid){
+                j = mid - 1;
+            }else{
+                i = mid + 1;
+            }
+            
         }
 
         return {-1,-1};
