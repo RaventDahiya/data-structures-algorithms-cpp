@@ -224,6 +224,7 @@ Refer to the respective source files for usage examples and function description
 | [0023-merge-k-sorted-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0141-linked-list-cycle) |
@@ -335,6 +336,7 @@ Refer to the respective source files for usage examples and function description
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
