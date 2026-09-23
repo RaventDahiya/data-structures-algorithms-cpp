@@ -1,40 +1,34 @@
 class Solution {
 public:
     bool isValid(vector<int>& nums, int k,int maxSum){
+        int splits = 1;
         int sum = 0;
-        int partion = 1;
-        for(auto it : nums){
-            if(sum + it <= maxSum){
-                sum += it;
+        for(auto &num : nums){
+            if(sum + num > maxSum){
+                splits++;
+                sum = num;
+                if(splits > k) return false;
             }else{
-                partion++;
-                sum = it;
+                sum += num;
             }
         }
-        return partion<=k;
+        return true;
+
     }
     int splitArray(vector<int>& nums, int k) {
-        if(nums.size() < k ) return -1;
+        int n = nums.size();
+        int l = *max_element(nums.begin(),nums.end());
+        int r = accumulate(nums.begin(),nums.end(),0);
 
-        long long left = 0;
-        long long right = 0;
-
-        for(auto it : nums){
-            left = max(left,(long long)it);
-            right += it;
-        }
-
-        int result = right;
-
-        while(left<=right){
-            int mid = left + (right-left)/2;
-            if(isValid(nums,k,mid)){
-                result = mid;
-                right = mid - 1;
+        while(l<=r){
+            int m = l + (r-l)/2;
+            if(isValid(nums,k,m)){
+                r = m - 1;
             }else{
-                left = mid + 1;
+                l = m + 1;
             }
         }
-        return result;
+
+        return l;
     }
 };
