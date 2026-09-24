@@ -1,51 +1,34 @@
 class Solution {
 public:
-    vector<int> nseHelper(vector<int>& heights, int& n) {
-        vector<int> nse(n, n);
-        stack<int> st;
+    int largestRectangleArea(vector<int>& h) {
+        int n = h.size();
+        vector<int>ns(n,n);
+        vector<int>ps(n,-1);
 
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.empty() && heights[st.top()] >= heights[i]) {
+        stack<int>st;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && h[st.top()] >= h[i]){
                 st.pop();
             }
-
-            if (!st.empty()) {
-                nse[i] = st.top();
-            }
-
+            ps[i] = st.empty() ? -1 : st.top();
             st.push(i);
         }
 
-        return nse;
-    }
-    vector<int> pseHelper(vector<int>& heights, int& n) {
-        vector<int> pse(n, -1);
-        stack<int> st;
-
-        for (int i = 0; i <n; i++) {
-            while (!st.empty() && heights[st.top()] >= heights[i]) {
+        while(!st.empty()) st.pop();
+        for(int i=0;i<n;i++){
+            while(!st.empty() && h[st.top()] > h[i]){
+                ns[st.top()] = i;
                 st.pop();
             }
-
-            if (!st.empty()) {
-                pse[i] = st.top();
-            }
-
             st.push(i);
         }
 
-        return pse;
-    }
-    int largestRectangleArea(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> nse = nseHelper(heights, n);
-        vector<int> pse = pseHelper(heights, n);
-
-        int maxi = 0;
-
-        for (int i = 0; i < n; i++) {
-            maxi = max(maxi, heights[i] * (nse[i] - pse[i] - 1));
+        int maxArea = 0;
+        for(int i=0;i<n;i++){
+            int area = h[i] * ((ns[i]-i) + (i-(ps[i]+1)));
+            maxArea = max(maxArea,area);
         }
-        return maxi;
+        return maxArea;
+
     }
 };
