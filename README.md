@@ -150,6 +150,7 @@ Refer to the respective source files for usage examples and function description
 | [2643-row-with-maximum-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -660,6 +661,7 @@ Refer to the respective source files for usage examples and function description
 | [1401-circle-and-rectangle-overlapping](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
