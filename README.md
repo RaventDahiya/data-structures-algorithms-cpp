@@ -123,6 +123,7 @@ Refer to the respective source files for usage examples and function description
 | [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0827-making-a-large-island) |
@@ -818,6 +819,7 @@ Refer to the respective source files for usage examples and function description
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0739-daily-temperatures) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -837,6 +839,7 @@ Refer to the respective source files for usage examples and function description
 | [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
