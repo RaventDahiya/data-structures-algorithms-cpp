@@ -603,6 +603,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
@@ -829,6 +830,7 @@ Refer to the respective source files for usage examples and function description
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
@@ -852,6 +854,7 @@ Refer to the respective source files for usage examples and function description
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 ## Combinatorics
 |  |
