@@ -196,6 +196,7 @@ Refer to the respective source files for usage examples and function description
 | [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
+| [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
@@ -295,6 +296,7 @@ Refer to the respective source files for usage examples and function description
 | [0930-binary-subarrays-with-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -488,6 +490,7 @@ Refer to the respective source files for usage examples and function description
 | [0994-rotting-oranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -620,6 +623,7 @@ Refer to the respective source files for usage examples and function description
 | [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0796-rotate-string) |
+| [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -780,6 +784,7 @@ Refer to the respective source files for usage examples and function description
 | ------- |
 | [0078-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -839,6 +844,7 @@ Refer to the respective source files for usage examples and function description
 | [0739-daily-temperatures](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
