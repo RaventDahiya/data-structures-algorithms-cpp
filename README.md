@@ -613,6 +613,7 @@ Refer to the respective source files for usage examples and function description
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
@@ -673,6 +674,7 @@ Refer to the respective source files for usage examples and function description
 | [0062-unique-paths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
@@ -693,6 +695,7 @@ Refer to the respective source files for usage examples and function description
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -839,6 +842,7 @@ Refer to the respective source files for usage examples and function description
 | [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0496-next-greater-element-i) |
