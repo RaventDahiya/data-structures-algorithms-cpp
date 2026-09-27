@@ -67,6 +67,7 @@ Refer to the respective source files for usage examples and function description
 | [0033-search-in-rotated-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
@@ -792,6 +793,7 @@ Refer to the respective source files for usage examples and function description
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
