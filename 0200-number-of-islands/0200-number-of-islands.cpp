@@ -1,38 +1,33 @@
 class Solution {
+private:
+    int x[4] = {1,-1,0,0};
+    int y[4] = {0,0,1,-1};
 public:
-    void bfs(int i, int j, vector<vector<char>>& grid,
-             vector<vector<bool>>& vis) {
-        vis[i][j] = true;
+    void dfs(vector<vector<char>>& grid,int i,int j,vector<vector<bool>>&vis){
         int m = grid.size();
         int n = grid[0].size();
-        queue<pair<int, int>> q;
-        q.push({i, j});
-        int x[4] = {0,-1,0,1};
-        int y[4] = {-1,0,1,0};
-        while (!q.empty()) {
-            auto [row, col] = q.front();
-            q.pop();
-            for (int dir = 0; dir < 4; dir++) {
-                int newRow = row + x[dir];
-                int newCol = col + y[dir];
-                if (newRow >= 0 && newRow < m && newCol >= 0 && newCol < n &&
-                    grid[newRow][newCol] == '1' && !vis[newRow][newCol]) {
-                    vis[newRow][newCol] = true;
-                    q.push({newRow, newCol});
-                }
+
+        vis[i][j] = true;
+
+        for(int dir=0;dir<4;dir++){
+            int newX = i + x[dir];
+            int newY = j + y[dir];
+            if(newX>=0 && newX<m && newY>=0 && newY<n && !vis[newX][newY] && grid[newX][newY]=='1'){
+                dfs(grid,newX,newY,vis);
             }
         }
+
     }
     int numIslands(vector<vector<char>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<bool>> vis(m, vector<bool>(n, false));
+        vector<vector<bool>>vis(m,vector<bool>(n,false));
         int islandCount = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == '1' && !vis[i][j]) {
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(!vis[i][j] && grid[i][j]=='1'){
                     islandCount++;
-                    bfs(i, j, grid, vis);
+                    dfs(grid,i,j,vis);
                 }
             }
         }
