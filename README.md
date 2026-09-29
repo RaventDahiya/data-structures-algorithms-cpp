@@ -640,6 +640,7 @@ Refer to the respective source files for usage examples and function description
 | [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -875,6 +876,7 @@ Refer to the respective source files for usage examples and function description
 | [0739-daily-temperatures](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
