@@ -631,6 +631,7 @@ Refer to the respective source files for usage examples and function description
 | [0242-valid-anagram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -717,6 +718,7 @@ Refer to the respective source files for usage examples and function description
 | [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0394-decode-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -866,6 +868,7 @@ Refer to the respective source files for usage examples and function description
 | [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0503-next-greater-element-ii) |
