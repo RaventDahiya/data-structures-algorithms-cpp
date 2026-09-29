@@ -157,6 +157,7 @@ Refer to the respective source files for usage examples and function description
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1901-find-a-peak-element-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
@@ -554,6 +555,7 @@ Refer to the respective source files for usage examples and function description
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1901-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2643-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
@@ -599,6 +601,7 @@ Refer to the respective source files for usage examples and function description
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Topological Sort
 |  |
@@ -880,6 +883,7 @@ Refer to the respective source files for usage examples and function description
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
