@@ -574,6 +574,7 @@ Refer to the respective source files for usage examples and function description
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
@@ -614,6 +615,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
@@ -706,6 +708,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
