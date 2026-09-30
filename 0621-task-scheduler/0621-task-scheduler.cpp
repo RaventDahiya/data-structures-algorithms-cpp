@@ -6,7 +6,7 @@ public:
             mp[ch-'A']++;
         }
         priority_queue<int>pq;
-        for(auto &freq : mp){
+        for(auto freq : mp){
             if(freq>0) pq.push(freq);
         }
         int time = 0;
@@ -14,20 +14,21 @@ public:
             vector<int>temp;
             for(int i=1;i<=n+1;i++){
                 if(!pq.empty()){
-                    auto front = pq.top(); pq.pop();
-                    front--;
-                    temp.push_back(front);
+                    auto freq = pq.top(); pq.pop();
+                    temp.push_back(--freq);
                 }
             }
+
             for(auto &freq : temp){
                 if(freq>0) pq.push(freq);
             }
-            if(pq.empty()){
-                time += temp.size();
-            }else{
-                time += n+1;
-            }
+
+            if(pq.empty()) time += temp.size();
+            else time += n + 1;
+
         }
+
         return time;
+
     }
 };
