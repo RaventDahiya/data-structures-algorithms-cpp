@@ -382,12 +382,14 @@ Refer to the respective source files for usage examples and function description
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -732,6 +734,7 @@ Refer to the respective source files for usage examples and function description
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Prefix Sum
 |  |
