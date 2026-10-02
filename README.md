@@ -582,6 +582,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
@@ -624,6 +625,7 @@ Refer to the respective source files for usage examples and function description
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
@@ -821,6 +823,7 @@ Refer to the respective source files for usage examples and function description
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
@@ -901,6 +904,7 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
