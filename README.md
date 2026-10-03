@@ -159,6 +159,7 @@ Refer to the respective source files for usage examples and function description
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2643-row-with-maximum-ones) |
@@ -899,6 +900,7 @@ Refer to the respective source files for usage examples and function description
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2104-sum-of-subarray-ranges) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -930,6 +932,7 @@ Refer to the respective source files for usage examples and function description
 | [0739-daily-temperatures](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
