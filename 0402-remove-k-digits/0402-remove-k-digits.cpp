@@ -2,31 +2,50 @@ class Solution {
 public:
     string removeKdigits(string num, int k) {
         int n = num.size();
-        unordered_set<int>notInclude;
+
+        if (k >= n)
+            return "0";
+
         stack<int> st;
 
         for (int i = 0; i < n; i++) {
-            while (!st.empty() && num[st.top()] > num[i]) {
-                notInclude.insert(st.top());
-                if(notInclude.size()==k) break;
+
+            while (k > 0 &&
+                   !st.empty() &&
+                   num[st.top()] > num[i]) {
+
                 st.pop();
+                k--;
             }
-            if(notInclude.size()==k) break;
+
             st.push(i);
         }
 
-        while (!st.empty() && notInclude.size() < k) {
-            notInclude.insert(st.top());
+        // Important:
+        // If k is still remaining, remove from the end
+        while (k > 0 && !st.empty()) {
             st.pop();
+            k--;
         }
 
         string ans = "";
-        for(int i=0;i<n;i++){
-            if(!notInclude.count(i)){
-                if(ans.size()==0 && num[i]=='0') continue;
-                ans += num[i];
-            }
+
+        while (!st.empty()) {
+            ans += num[st.top()];
+            st.pop();
         }
-        return ans=="" ? "0" : ans;
+
+        reverse(ans.begin(), ans.end());
+
+        // Remove leading zeroes
+        int i = 0;
+
+        while (i < ans.size() && ans[i] == '0') {
+            i++;
+        }
+
+        ans = ans.substr(i);
+
+        return ans.empty() ? "0" : ans;
     }
 };
