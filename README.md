@@ -324,6 +324,7 @@ Refer to the respective source files for usage examples and function description
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0678-valid-parenthesis-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0846-hand-of-straights) |
 | [0991-broken-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0991-broken-calculator) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -604,6 +605,7 @@ Refer to the respective source files for usage examples and function description
 | [0338-counting-bits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0907-sum-of-subarray-minimums) |
@@ -648,6 +650,7 @@ Refer to the respective source files for usage examples and function description
 | [0438-find-all-anagrams-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0796-rotate-string) |
@@ -891,6 +894,7 @@ Refer to the respective source files for usage examples and function description
 | [0402-remove-k-digits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0901-online-stock-span) |
@@ -911,6 +915,7 @@ Refer to the respective source files for usage examples and function description
 | [0020-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
