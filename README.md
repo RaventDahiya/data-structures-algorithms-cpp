@@ -497,6 +497,7 @@ Refer to the respective source files for usage examples and function description
 | [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0547-number-of-provinces) |
@@ -646,6 +647,7 @@ Refer to the respective source files for usage examples and function description
 | [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0394-decode-string) |
@@ -838,6 +840,7 @@ Refer to the respective source files for usage examples and function description
 | [0022-generate-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 ## Directed Acyclic Graph
