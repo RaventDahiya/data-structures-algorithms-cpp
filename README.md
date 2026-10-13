@@ -262,6 +262,7 @@ Refer to the respective source files for usage examples and function description
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0460-lfu-cache) |
 | [0641-design-circular-deque](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1669-merge-in-between-linked-lists) |
@@ -304,6 +305,7 @@ Refer to the respective source files for usage examples and function description
 | [0424-longest-repeating-character-replacement](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0560-subarray-sum-equals-k) |
@@ -403,6 +405,7 @@ Refer to the respective source files for usage examples and function description
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0460-lfu-cache) |
 | [0641-design-circular-deque](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0901-online-stock-span) |
@@ -1018,4 +1021,5 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
