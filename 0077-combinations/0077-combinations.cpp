@@ -7,12 +7,12 @@ public:
             return;
         }
         if (str>n) return;
-        //pick
-        curr.push_back(str);
-        bt(n,k,str+1,curr,res);
-        curr.pop_back();
-        //skip
-        bt(n,k,str+1,curr,res);
+
+        for(int i=str;i<=n;i++){
+            curr.push_back(i);
+            bt(n, k, i + 1, curr, res);
+            curr.pop_back();
+        }
     }
     vector<vector<int>> combine(int n, int k) {
         vector<int>curr;
