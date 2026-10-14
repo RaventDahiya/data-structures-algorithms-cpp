@@ -1,20 +1,19 @@
 class Solution {
 public:
-    set<vector<int>>st;
-    void bt(vector<int>&nums,int i,vector<int>&curr){
-        st.insert(curr);
+    void bt(vector<int>&nums,int i,vector<int>&curr,vector<vector<int>>&res){
+        res.push_back(curr);
         for(int j=i;j<nums.size();j++){
+            if(j>i && nums[j]==nums[j-1]) continue;
             curr.push_back(nums[j]);
-            bt(nums,j+1,curr);
+            bt(nums,j+1,curr,res);
             curr.pop_back();
         }
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         vector<int>curr;
         sort(nums.begin(),nums.end());
-        bt(nums,0,curr);
-        vector<vector<int>>res(st.begin(),st.end());
-        
+        vector<vector<int>>res;
+        bt(nums,0,curr,res);
         return res;
     }
 };
