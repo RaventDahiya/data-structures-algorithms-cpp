@@ -81,6 +81,7 @@ Refer to the respective source files for usage examples and function description
 | [0074-search-a-2d-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0085-maximal-rectangle) |
@@ -489,6 +490,7 @@ Refer to the respective source files for usage examples and function description
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0144-binary-tree-preorder-traversal) |
@@ -580,6 +582,7 @@ Refer to the respective source files for usage examples and function description
 | [0054-spiral-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0200-number-of-islands) |
@@ -666,6 +669,7 @@ Refer to the respective source files for usage examples and function description
 | [0049-group-anagrams](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
@@ -875,6 +879,7 @@ Refer to the respective source files for usage examples and function description
 | [0047-permutations-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
