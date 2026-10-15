@@ -632,6 +632,7 @@ Refer to the respective source files for usage examples and function description
 | [0119-pascals-triangle-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0300-longest-increasing-subsequence) |
@@ -673,6 +674,7 @@ Refer to the respective source files for usage examples and function description
 | [0097-interleaving-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0227-basic-calculator-ii) |
@@ -881,6 +883,7 @@ Refer to the respective source files for usage examples and function description
 | [0078-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
