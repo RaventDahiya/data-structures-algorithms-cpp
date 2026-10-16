@@ -134,6 +134,7 @@ Refer to the respective source files for usage examples and function description
 | [0641-design-circular-deque](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0735-asteroid-collision) |
@@ -622,6 +623,7 @@ Refer to the respective source files for usage examples and function description
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0338-counting-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Dynamic Programming
@@ -650,6 +652,7 @@ Refer to the respective source files for usage examples and function description
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0907-sum-of-subarray-minimums) |
@@ -899,6 +902,7 @@ Refer to the respective source files for usage examples and function description
 | [0090-subsets-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 ## Directed Acyclic Graph
@@ -1070,4 +1074,12 @@ Refer to the respective source files for usage examples and function description
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0037-sudoku-solver) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
