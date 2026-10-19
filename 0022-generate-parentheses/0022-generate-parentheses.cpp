@@ -1,28 +1,26 @@
 class Solution {
 public:
     vector<string>res;
-
-    void bt(int &n,int o,int c,string &str){
-        if(o==n && c==n){
-            res.push_back(str);
+    void solve(int &n,string &curr,int open,int close){
+        if(open==n && close==n){
+            res.push_back(curr);
             return;
         }
-        if(o>n) return;
+        if(open>n) return;
 
-        str.push_back('(');
-        bt(n,o+1,c,str);
-        str.pop_back();
+        curr.push_back('(');
+        solve(n,curr,open+1,close);
+        curr.pop_back();
 
-        if(o>=c+1){
-            str.push_back(')');
-            bt(n,o,c+1,str);
-            str.pop_back();
+        if(open>close){
+            curr.push_back(')');
+            solve(n,curr,open,close+1);
+            curr.pop_back();
         }
-
     }
     vector<string> generateParenthesis(int n) {
-        string str = "";
-        bt(n,0,0,str);
+        string curr="";
+        solve(n,curr,0,0);
         return res;
     }
 };
