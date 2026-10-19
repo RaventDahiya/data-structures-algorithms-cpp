@@ -790,6 +790,7 @@ Refer to the respective source files for usage examples and function description
 | [1401-circle-and-rectangle-overlapping](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1922-count-good-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1922-count-good-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -807,6 +808,7 @@ Refer to the respective source files for usage examples and function description
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1922-count-good-numbers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
