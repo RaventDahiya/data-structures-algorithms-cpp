@@ -1,18 +1,18 @@
 class Solution {
 public:
-    void bt(vector<int>& nums, int i, vector<int>& curr,vector<vector<int>>& res) {
+    vector<vector<int>>res;
+    void bt(vector<int>&nums,vector<int>&curr,int str){
         res.push_back(curr);
 
-        for (int j = i; j < nums.size(); j++) {
-            curr.push_back(nums[j]);
-            bt(nums, j + 1, curr, res);
+        for(int i=str;i<nums.size();i++){
+            curr.push_back(nums[i]);
+            bt(nums,curr,i+1);
             curr.pop_back();
         }
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> curr;
-        vector<vector<int>> res;
-        bt(nums, 0, curr, res);
+        vector<int>curr;
+        bt(nums,curr,0);
         return res;
     }
 };
