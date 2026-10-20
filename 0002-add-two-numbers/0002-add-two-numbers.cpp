@@ -15,37 +15,26 @@ public:
         ListNode* curr = dummy;
         int carry = 0;
 
-        while(l1 && l2){
-            int sum = carry + l1->val + l2->val;
+        while(l1 || l2 || carry){
+            int sum = 0;
+            if(l1){
+                sum += l1->val;
+                l1 = l1->next;
+            }
+            if(l2){
+                sum += l2->val;
+                l2 = l2->next;
+            }
+
+            if(carry){
+                sum += carry;
+            }
+            
             int digit = sum%10;
             carry = sum/10;
             curr->next = new ListNode(digit);
             curr = curr->next;
-            l1 = l1->next;
-            l2 = l2->next;
-        }
 
-        while(l1){
-            int sum = carry + l1->val;
-            int digit = sum%10;
-            carry = sum/10;
-            curr->next = new ListNode(digit);
-            curr = curr->next;
-            l1 = l1->next;
-        }
-
-        while(l2){
-            int sum = carry + l2->val;
-            int digit = sum%10;
-            carry = sum/10;
-            curr->next = new ListNode(digit);
-            curr = curr->next;
-            l2 = l2->next;
-        }
-
-        if(carry!=0){
-            curr->next = new ListNode(carry);
-            curr = curr->next;
         }
 
         return dummy->next;
