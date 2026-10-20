@@ -184,6 +184,7 @@ Refer to the respective source files for usage examples and function description
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Refer to the respective source files for usage examples and function description
 | [2333-minimum-sum-of-squared-difference](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -795,6 +797,7 @@ Refer to the respective source files for usage examples and function description
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -1055,6 +1058,7 @@ Refer to the respective source files for usage examples and function description
 | [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
+| [3886-sum-of-sortable-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
