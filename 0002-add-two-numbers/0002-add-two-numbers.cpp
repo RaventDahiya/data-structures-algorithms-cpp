@@ -10,51 +10,45 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        // Base case
-        if (!head || !head->next)
-            return head;
-
-        ListNode* newHead = reverseList(head->next);
-
-        head->next->next = head; // make next node point back
-        head->next = nullptr;    // break original forward link
-
-        return newHead;
-    }
-    ListNode* addTwoNumbers(ListNode* r1, ListNode* r2) {
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode* dummy = new ListNode(0);
+        ListNode* curr = dummy;
         int carry = 0;
-        ListNode dummy(-1);
-        ListNode* curr = &dummy;
-        while(r1 && r2){
-            int sum = r1->val + r2->val + carry;
-            int digit = sum % 10;
-            carry = sum / 10;
+
+        while(l1 && l2){
+            int sum = carry + l1->val + l2->val;
+            int digit = sum%10;
+            carry = sum/10;
             curr->next = new ListNode(digit);
             curr = curr->next;
-            r1 = r1->next;
-            r2 = r2->next;
+            l1 = l1->next;
+            l2 = l2->next;
         }
-        while(r1){
-            int sum = r1->val + carry;
-            int digit = sum % 10;
-            carry = sum / 10;
+
+        while(l1){
+            int sum = carry + l1->val;
+            int digit = sum%10;
+            carry = sum/10;
             curr->next = new ListNode(digit);
             curr = curr->next;
-            r1 = r1->next;
+            l1 = l1->next;
         }
-        while(r2){
-            int sum = r2->val + carry;
-            int digit = sum % 10;
-            carry = sum / 10;
+
+        while(l2){
+            int sum = carry + l2->val;
+            int digit = sum%10;
+            carry = sum/10;
             curr->next = new ListNode(digit);
             curr = curr->next;
-            r2 = r2->next;
+            l2 = l2->next;
         }
-        if(carry){
+
+        if(carry!=0){
             curr->next = new ListNode(carry);
             curr = curr->next;
         }
-        return dummy.next;
+
+        return dummy->next;
+
     }
 };
