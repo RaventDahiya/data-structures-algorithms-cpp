@@ -6,13 +6,12 @@ public:
             st.insert(num);
         }
         int longest = 0;
-        for(auto &num : nums){
+        for(auto &num : st){
             if(st.count(num-1)) continue;
-            int currLen = 0;
-            int toFind = num;
+            int currLen = 1;
+            int toFind = num+1;
             while(st.count(toFind)){
                 currLen++; 
-                st.erase(toFind);
                 toFind++;
             }
             longest = max(longest,currLen);
