@@ -5,17 +5,19 @@ public:
         for(auto &num : nums){
             st.insert(num);
         }
-        int maxi = INT_MIN;
-        for(auto &num : st){
+        int longest = 0;
+        for(auto &num : nums){
             if(st.count(num-1)) continue;
-            int count = 1;
-            int toFind = num + 1;
+            int currLen = 0;
+            int toFind = num;
             while(st.count(toFind)){
-                count++;
+                currLen++; 
+                st.erase(toFind);
                 toFind++;
             }
-            maxi = max(maxi,count);
+            longest = max(longest,currLen);
         }
-        return maxi==INT_MIN ? 0 : maxi;
+
+        return longest;
     }
 };
