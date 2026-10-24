@@ -1,26 +1,44 @@
+
 class Solution {
 public:
-    vector<vector<int>>res;
-    void bt(vector<int>& can, int tar,vector<int>&curr,int str){
-        if(tar==0){
+    vector<vector<int>> res;
+
+    void bt(vector<int>& can, int tar,
+            vector<int>& curr, int str) {
+
+        if (tar == 0) {
             res.push_back(curr);
             return;
         }
-        if(tar<0) return;
 
-        for(int i=str;i<can.size();i++){
-            if(i>str && can[i]==can[i-1]) continue;
-            if(tar-can[i]<0) continue;
+        if (str == can.size()) return;
 
-            curr.push_back(can[i]);
-            bt(can,tar-can[i],curr,i+1);
+        // Include current element
+        if (tar - can[str] >= 0) {
+            curr.push_back(can[str]);
+
+            bt(can, tar - can[str], curr, str + 1);
+
             curr.pop_back();
         }
+
+        // Exclude current element and all its duplicates
+        int next = str + 1;
+
+        while (next < can.size() && can[next] == can[str]) {
+            next++;
+        }
+
+        bt(can, tar, curr, next);
     }
+
     vector<vector<int>> combinationSum2(vector<int>& can, int tar) {
-        sort(can.begin(),can.end());
-        vector<int>curr;
-        bt(can,tar,curr,0);
+        res.clear();
+        sort(can.begin(), can.end());
+
+        vector<int> curr;
+        bt(can, tar, curr, 0);
+
         return res;
     }
 };
