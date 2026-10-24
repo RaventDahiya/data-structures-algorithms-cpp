@@ -107,6 +107,7 @@ Refer to the respective source files for usage examples and function description
 | [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0229-majority-element-ii) |
@@ -936,6 +937,7 @@ Refer to the respective source files for usage examples and function description
 | [0079-word-search](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
