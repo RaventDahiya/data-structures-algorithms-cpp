@@ -1,20 +1,20 @@
 class Solution {
 public:
     unordered_map<char, vector<char>> mp;
+    vector<string>ans;
 
-    vector<string> ans;
-
-    void bt(int i, string& curr, string& d) {
-        if (i == d.length()) {
+    void bt(int i,string &curr,string &digits){
+        if(i==digits.size()){
             ans.push_back(curr);
             return;
         }
-        for (char ch : mp[d[i]]) {
+        for(auto &ch : mp[digits[i]]){
             curr.push_back(ch);
-            bt(i + 1, curr, d);
+            bt(i+1,curr,digits);
             curr.pop_back();
         }
     }
+    
     vector<string> letterCombinations(string digits) {
         mp['2'] = {'a', 'b', 'c'};
         mp['3'] = {'d', 'e', 'f'};
