@@ -1,38 +1,44 @@
 class Solution {
 public:
-    vector<vector<string>>res;
-    unordered_map<int,bool>digonal2;
-    unordered_map<int,bool>col;
-    unordered_map<int,bool>digonal1;
+    vector<vector<string>> res;
 
-    void solve(int n,vector<string>grid,int i){
-        if(i==n){
+    void solve(int n, vector<string>& grid, int i,
+               vector<bool>& col,
+               vector<bool>& diagonal1,
+               vector<bool>& diagonal2) {
+
+        if (i == n) {
             res.push_back(grid);
+            return;
         }
 
-        for(int j=0;j<n;j++){
-            if(!col[j] && !digonal1[i+j] && !digonal2[i-j]){
-                grid[i][j] = 'Q';
-                col[j] = true;
-                digonal1[i+j] = true;
-                digonal2[i-j] = true;
+        for (int j = 0; j < n; j++) {
+            int d1 = i + j;
+            int d2 = i - j + n - 1;
 
-                solve(n,grid,i+1);
+            if (col[j] || diagonal1[d1] || diagonal2[d2])
+                continue;
 
-                grid[i][j] = '.';
-                col[j] = false;
-                digonal1[i+j] = false;
-                digonal2[i-j] = false;
-            }
+            grid[i][j] = 'Q';
+            col[j] = diagonal1[d1] = diagonal2[d2] = true;
+
+            solve(n, grid, i + 1, col, diagonal1, diagonal2);
+
+            grid[i][j] = '.';
+            col[j] = diagonal1[d1] = diagonal2[d2] = false;
         }
     }
+
     vector<vector<string>> solveNQueens(int n) {
-        string str = "";
-        for(int i=0;i<n;i++) str += '.';
+        res.clear();
 
-        vector<string>grid(n,str);
+        vector<string> grid(n, string(n, '.'));
 
-        solve(n,grid,0);
+        vector<bool> col(n, false);
+        vector<bool> diagonal1(2*n, false);
+        vector<bool> diagonal2(2*n, false);
+
+        solve(n, grid, 0, col, diagonal1, diagonal2);
 
         return res;
     }
