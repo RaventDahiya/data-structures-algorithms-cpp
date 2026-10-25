@@ -1,36 +1,39 @@
 class Solution {
 public:
     vector<vector<string>>res;
-    unordered_set<int>cols;
-    unordered_set<int>diag1;
-    unordered_set<int>diag2; 
+    unordered_map<int,bool>digonal2;
+    unordered_map<int,bool>col;
+    unordered_map<int,bool>digonal1;
 
-    void bt(int row,int n,vector<string>&board){
-        if(row==n){
-            res.push_back(board);
-            return;
+    void solve(int n,vector<string>grid,int i){
+        if(i==n){
+            res.push_back(grid);
         }
 
-        for(int col=0;col<n;col++){
-            //check col and digonals
-            if (cols.count(col) || diag1.count(row - col) || diag2.count(row + col)) {
-                continue;
-            }
-            board[row][col] = 'Q';
-            cols.insert(col);
-            diag1.insert(row-col);
-            diag2.insert(row+col);
-            bt(row+1,n,board);
-            board[row][col] = '.';
-            cols.erase(col);
-            diag1.erase(row-col);
-            diag2.erase(row+col);
+        for(int j=0;j<n;j++){
+            if(!col[j] && !digonal1[i+j] && !digonal2[i-j]){
+                grid[i][j] = 'Q';
+                col[j] = true;
+                digonal1[i+j] = true;
+                digonal2[i-j] = true;
 
+                solve(n,grid,i+1);
+
+                grid[i][j] = '.';
+                col[j] = false;
+                digonal1[i+j] = false;
+                digonal2[i-j] = false;
+            }
         }
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<string>board(n,string(n,'.'));
-        bt(0,n,board);
+        string str = "";
+        for(int i=0;i<n;i++) str += '.';
+
+        vector<string>grid(n,str);
+
+        solve(n,grid,0);
+
         return res;
     }
 };
