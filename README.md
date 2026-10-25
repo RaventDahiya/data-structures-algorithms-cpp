@@ -723,6 +723,7 @@ Refer to the respective source files for usage examples and function description
 | [0224-basic-calculator](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
@@ -800,6 +801,7 @@ Refer to the respective source files for usage examples and function description
 | [0227-basic-calculator-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0754-reach-a-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0836-rectangle-overlap) |
@@ -943,6 +945,7 @@ Refer to the respective source files for usage examples and function description
 | [0090-subsets-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0797-all-paths-from-source-to-target) |
