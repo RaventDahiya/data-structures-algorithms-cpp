@@ -123,6 +123,7 @@ Refer to the respective source files for usage examples and function description
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0496-next-greater-element-i) |
@@ -227,6 +228,7 @@ Refer to the respective source files for usage examples and function description
 | [0295-find-median-from-data-stream](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -368,6 +370,7 @@ Refer to the respective source files for usage examples and function description
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0678-valid-parenthesis-string) |
@@ -684,6 +687,7 @@ Refer to the respective source files for usage examples and function description
 | [0322-coin-change](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
