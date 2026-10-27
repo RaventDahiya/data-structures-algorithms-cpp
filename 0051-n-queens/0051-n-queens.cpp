@@ -1,36 +1,45 @@
 class Solution {
 public:
-    vector<vector<string>>res;
-    unordered_set<int>cols;
-    unordered_set<int>diag1;
-    unordered_set<int>diag2; 
+    vector<vector<string>> res;
 
-    void bt(int row,int n,vector<string>&board){
-        if(row==n){
-            res.push_back(board);
+    void solve(int n, vector<string>& grid, int i,
+               vector<bool>& col,
+               vector<bool>& diagonal1,
+               vector<bool>& diagonal2) {
+
+        if (i == n) {
+            res.push_back(grid);
             return;
         }
 
-        for(int col=0;col<n;col++){
-            //check col and digonals
-            if (cols.count(col) || diag1.count(row - col) || diag2.count(row + col)) {
-                continue;
-            }
-            board[row][col] = 'Q';
-            cols.insert(col);
-            diag1.insert(row-col);
-            diag2.insert(row+col);
-            bt(row+1,n,board);
-            board[row][col] = '.';
-            cols.erase(col);
-            diag1.erase(row-col);
-            diag2.erase(row+col);
+        for (int j = 0; j < n; j++) {
+            int d1 = i + j;
+            int d2 = i - j + n - 1;
 
+            if (col[j] || diagonal1[d1] || diagonal2[d2])
+                continue;
+
+            grid[i][j] = 'Q';
+            col[j] = diagonal1[d1] = diagonal2[d2] = true;
+
+            solve(n, grid, i + 1, col, diagonal1, diagonal2);
+
+            grid[i][j] = '.';
+            col[j] = diagonal1[d1] = diagonal2[d2] = false;
         }
     }
+
     vector<vector<string>> solveNQueens(int n) {
-        vector<string>board(n,string(n,'.'));
-        bt(0,n,board);
+        res.clear();
+
+        vector<string> grid(n, string(n, '.'));
+
+        vector<bool> col(n, false);
+        vector<bool> diagonal1(2*n, false);
+        vector<bool> diagonal2(2*n, false);
+
+        solve(n, grid, 0, col, diagonal1, diagonal2);
+
         return res;
     }
 };

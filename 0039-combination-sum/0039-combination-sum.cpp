@@ -1,24 +1,23 @@
 class Solution {
 public:
     vector<vector<int>>res;
-    void bt(vector<int>& can, int tar,vector<int>&curr,int str){
-        if(tar==0){
+    void solve(vector<int>& candidates, int target,vector<int>&curr,int i){
+        if(target==0){
             res.push_back(curr);
             return;
         }
-        if(tar<0) return;
+        if(i==candidates.size()) return;
 
-        for(int i=str;i<can.size();i++){
-            if(tar-can[i]<0) continue;
-            curr.push_back(can[i]);
-            bt(can,tar-can[i],curr,i);
+        if(target-candidates[i] >= 0){
+            curr.push_back(candidates[i]);
+            solve(candidates,target-candidates[i],curr,i);
             curr.pop_back();
         }
+        solve(candidates,target,curr,i+1);
     }
-    vector<vector<int>> combinationSum(vector<int>& can, int tar) {
-        sort(can.begin(),can.end());
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<int>curr;
-        bt(can,tar,curr,0);
+        solve(candidates,target,curr,0);
         return res;
     }
 };
