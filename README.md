@@ -989,6 +989,7 @@ Refer to the respective source files for usage examples and function description
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0185-department-top-three-salaries) |
