@@ -1,19 +1,19 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if (n == 0)
-            return 1.0;
+        if(n==0) return 1.0;
+
         long long N = n;
         long double base = x;
 
-        if (N < 0) {
+        if(N<0){
             N = -N;
-            base = 1.0L / x;
+            base = 1.0L/base;
         }
-        double res = 1.0;
+        long double res = 1.0;
 
-        while (N) {
-            if (N & 1) { // odd
+        while(N){
+            if(N&1){ //odd
                 res *= base;
             }
             base *= base;
