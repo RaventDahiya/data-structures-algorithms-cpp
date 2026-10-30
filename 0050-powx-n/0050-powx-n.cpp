@@ -17,7 +17,7 @@ public:
                 res *= base;
             }
             base *= base;
-            N >>= 1;
+            N = N/2;
         }
 
         return (double)res;
