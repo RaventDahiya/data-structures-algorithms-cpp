@@ -125,6 +125,7 @@ Refer to the respective source files for usage examples and function description
 | [0410-split-array-largest-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0496-next-greater-element-i) |
@@ -827,6 +828,7 @@ Refer to the respective source files for usage examples and function description
 | [0231-power-of-two](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0282-expression-add-operators) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0754-reach-a-number](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0836-rectangle-overlap) |
