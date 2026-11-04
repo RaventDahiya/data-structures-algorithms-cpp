@@ -187,6 +187,7 @@ Refer to the respective source files for usage examples and function description
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -274,6 +275,7 @@ Refer to the respective source files for usage examples and function description
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
@@ -372,6 +374,7 @@ Refer to the respective source files for usage examples and function description
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
@@ -420,6 +423,7 @@ Refer to the respective source files for usage examples and function description
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -718,6 +722,7 @@ Refer to the respective source files for usage examples and function description
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3665-twisted-mirror-path-count) |
 ## Topological Sort
 |  |
@@ -843,6 +848,7 @@ Refer to the respective source files for usage examples and function description
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
