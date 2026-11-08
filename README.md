@@ -163,6 +163,7 @@ Refer to the respective source files for usage examples and function description
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -491,6 +492,7 @@ Refer to the respective source files for usage examples and function description
 | [0621-task-scheduler](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1267-count-servers-that-communicate) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -573,6 +575,7 @@ Refer to the respective source files for usage examples and function description
 | [1020-number-of-enclaves](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -605,6 +608,7 @@ Refer to the respective source files for usage examples and function description
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -622,6 +626,7 @@ Refer to the respective source files for usage examples and function description
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
@@ -667,6 +672,7 @@ Refer to the respective source files for usage examples and function description
 | [1020-number-of-enclaves](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
