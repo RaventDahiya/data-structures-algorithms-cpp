@@ -195,6 +195,7 @@ Refer to the respective source files for usage examples and function description
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -441,6 +442,7 @@ Refer to the respective source files for usage examples and function description
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -917,6 +919,7 @@ Refer to the respective source files for usage examples and function description
 | [0933-number-of-recent-calls](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -967,6 +970,7 @@ Refer to the respective source files for usage examples and function description
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -980,6 +984,7 @@ Refer to the respective source files for usage examples and function description
 | [0493-reverse-pairs](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
@@ -1106,6 +1111,7 @@ Refer to the respective source files for usage examples and function description
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -1144,6 +1150,7 @@ Refer to the respective source files for usage examples and function description
 | [0901-online-stock-span](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Trie
 |  |
 | ------- |
