@@ -195,6 +195,7 @@ Refer to the respective source files for usage examples and function description
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
@@ -442,6 +443,7 @@ Refer to the respective source files for usage examples and function description
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -935,6 +937,7 @@ Refer to the respective source files for usage examples and function description
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 ## Pigeonhole Principle
 |  |
 | ------- |
