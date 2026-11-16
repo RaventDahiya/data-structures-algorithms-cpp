@@ -813,6 +813,7 @@ Refer to the respective source files for usage examples and function description
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3498-reverse-degree-of-a-string) |
@@ -965,6 +966,7 @@ Refer to the respective source files for usage examples and function description
 | [0950-reveal-cards-in-increasing-order](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Queue
 |  |
