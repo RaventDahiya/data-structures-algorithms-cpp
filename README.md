@@ -476,6 +476,7 @@ Refer to the respective source files for usage examples and function description
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Design
 |  |
 | ------- |
@@ -753,6 +754,7 @@ Refer to the respective source files for usage examples and function description
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3693-climbing-stairs-ii) |
@@ -816,6 +818,7 @@ Refer to the respective source files for usage examples and function description
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
