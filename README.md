@@ -200,6 +200,7 @@ Refer to the respective source files for usage examples and function description
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
@@ -450,6 +451,7 @@ Refer to the respective source files for usage examples and function description
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -900,6 +902,7 @@ Refer to the respective source files for usage examples and function description
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -1190,11 +1193,13 @@ Refer to the respective source files for usage examples and function description
 | [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/2951-find-the-peaks) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaventDahiya/data-structures-algorithms-cpp/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
